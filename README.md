@@ -100,12 +100,6 @@ The analysis of the grocery store data provides key insights into the store's sa
   
 - **Payment Options**: Ensure that the mobile payment and debit card systems are optimized, as these are the preferred methods among customers. Consider offering promotions or discounts for credit card or cash transactions to balance the payment method distribution.
 
-To attach your YouTube link to the full analysis, you can include it in a professional and engaging way by adding a short call-to-action (CTA) at the end of the document or slide. Here's how you can do it:
-
----
-
-Great! Here's how you can incorporate your YouTube link into the conclusion:
-
 ---
 
 ## Conclusion:
