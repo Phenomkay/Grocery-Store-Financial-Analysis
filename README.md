@@ -34,6 +34,7 @@ The dataset consists of the following columns:
 - **customer_id**: Unique identifier for each customer.
 - **payment_method**: Method of payment (e.g., debit card, credit card, cash).
 - **transaction_month**: Extracted month from the transaction date for monthly analysis.
+
 NB - This is a sample dataset generated from mockaroo.
 
 ## Key Metrics
@@ -103,11 +104,15 @@ To attach your YouTube link to the full analysis, you can include it in a profes
 
 ---
 
+Great! Here's how you can incorporate your YouTube link into the conclusion:
+
+---
+
 ## Conclusion:
 
 This detailed analysis provides actionable insights into optimizing product performance, marketing strategies, and customer payment preferences. For a more in-depth walkthrough of the findings, **check out my YouTube video** where I explain the key points and how to implement these insights effectively:
 
-🔗 [**Watch the full analysis on YouTube**]([(https://youtu.be/MqSHAoWva3w)])
+🔗 [**Watch the full analysis on YouTube**](https://youtu.be/MqSHAoWva3w)
 
 ---
 
