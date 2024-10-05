@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,product_name,product_category,quantity,unit_price,total_price,payment_method,month
+1,5/13/2023,Longos - Greek Salad,bakery,935,606,7480.23,debit card,May
+2,2/27/2023,"Coffee - Beans, Whole",meat,620,586.74,5663.8,debit card,February
+3,2/18/2023,"Oranges - Navel, 72",dairy,679,704.92,1251.15,mobile payment,February
+4,10/26/2023,Zucchini - Green,frozen foods,580,141.55,6567.52,debit card,October
+5,9/20/2023,Lid Coffee Cup 8oz Blk,frozen foods,36,725.73,9045.66,cash,September
+6,1/13/2023,Wine - Carmenere Casillero Del,frozen foods,567,412.11,5161.91,mobile payment,January
+7,8/26/2023,"Lamb - Leg, Bone In",frozen foods,832,433.2,2507.21,mobile payment,August
+8,1/23/2023,Sauce - Sesame Thai Dressing,beverages,329,849.94,1690.88,cash,January
+9,9/5/2023,Rosemary - Fresh,dairy,633,869.84,4840.41,debit card,September
+10,4/10/2023,Coffee - Cafe Moreno,produce,171,514.63,6667.81,credit card,April
+11,6/26/2023,Bacardi Breezer - Strawberry,beverages,595,497.13,1240.29,cash,June
+12,10/22/2023,Apple - Royal Gala,beverages,801,464.36,5187.89,mobile payment,October
+13,9/5/2023,Puree - Raspberry,beverages,277,246.39,7594.96,credit card,September
+14,11/20/2023,"Wine - Magnotta, Merlot Sr Vqa",frozen foods,611,874.99,4967.64,cash,November
+15,10/23/2023,Flour - Semolina,dairy,344,163.48,1867.46,cash,October
+16,5/9/2023,Cocoa Butter,dairy,510,474.49,1253.1,debit card,May
+17,11/2/2023,Peas Snow,dairy,261,693.6,5195.96,credit card,November
+18,7/30/2023,"Artichokes - Knobless, White",beverages,17,864.87,8885.04,mobile payment,July
+19,12/29/2023,Passion Fruit,dairy,751,896.47,7567.94,debit card,December
+20,11/10/2023,"Chicken - Wings, Tip Off",dairy,124,450.88,7732.81,mobile payment,November
+21,6/30/2023,"Beets - Candy Cane, Organic",snacks,722,759.12,250.86,mobile payment,June
+22,1/3/2023,Sausage - Andouille,frozen foods,8,558.69,1694.6,cash,January
+23,2/9/2023,Buffalo - Tenderloin,produce,511,382.93,8439.26,debit card,February
+24,6/2/2023,Chutney Sauce - Mango,bakery,209,423.28,5013.29,cash,June
+25,11/15/2023,Spice - Paprika,dairy,447,119.09,9434.59,debit card,November
+26,10/13/2023,Bread - Corn Muffaleta Onion,bakery,892,326.36,1914.84,mobile payment,October
+27,11/25/2023,Beef Wellington,pantry,37,35.84,6722.21,debit card,November
+28,4/5/2023,Catfish - Fillets,frozen foods,751,360.24,31.97,cash,April
+29,10/10/2023,"Juice - Tomato, 48 Oz",produce,376,611.13,9503.97,debit card,October
+30,12/2/2023,Easy Off Oven Cleaner,beverages,538,973.4,9977.56,cash,December
+31,10/9/2023,Bar - Sweet And Salty Chocolate,dairy,763,752.97,3424.78,debit card,October
+32,3/13/2023,Drambuie,meat,73,817.43,1221.59,debit card,March
+33,4/3/2023,Flower - Commercial Bronze,meat,701,483.3,3828.62,cash,April
+34,1/9/2023,"Nut - Walnut, Pieces",dairy,164,477.52,599.86,cash,January
+35,12/20/2023,"Beef - Ground, Extra Lean, Fresh",meat,197,370.6,6887.22,credit card,December
+36,6/9/2023,Tea - Decaf Lipton,snacks,84,511.81,2260.01,debit card,June
+37,1/21/2023,Muffin - Bran Ind Wrpd,pantry,318,820.86,7952.06,debit card,January
+38,10/3/2023,Sauerkraut,pantry,359,279.62,5285.93,debit card,October
+39,9/3/2023,Sprouts Dikon,frozen foods,475,709.1,65.74,mobile payment,September
+40,12/16/2023,Vegetable - Base,frozen foods,916,749.36,9055.02,credit card,December
+41,3/5/2023,Bread - Focaccia Quarter,beverages,623,116.12,4384.75,credit card,March
+42,5/18/2023,Soup - Campbells Beef Stew,pantry,622,852.52,6714.07,credit card,May
+43,9/6/2023,Oil - Grapeseed Oil,beverages,296,827.59,5131.87,cash,September
+44,1/17/2023,Vol Au Vents,produce,241,296.88,9880.08,mobile payment,January
+45,6/24/2023,Veal - Loin,meat,818,374.22,4987.47,mobile payment,June
+46,6/15/2023,"Iced Tea - Lemon, 340ml",pantry,829,564.03,1508.29,mobile payment,June
+47,10/7/2023,Sauce - Salsa,bakery,593,914.37,953.97,debit card,October
+48,5/16/2023,Tea Peppermint,produce,986,326.46,8148.2,cash,May
+49,6/27/2023,Quail Eggs - Canned,produce,193,23.22,399.86,cash,June
+50,6/3/2023,Dikon,bakery,131,419.62,7696.99,credit card,June
+51,6/11/2023,Wine - Gewurztraminer Pierre,bakery,813,197.09,2413.67,mobile payment,June
+52,12/29/2023,"Pasta - Orzo, Dry",beverages,952,841.89,9046.6,cash,December
+53,7/16/2023,"Asparagus - White, Canned",meat,350,821.77,618.12,mobile payment,July
+54,9/7/2023,Cup Translucent 9 Oz,bakery,78,304.75,5455.48,mobile payment,September
+55,11/24/2023,Muffin Hinge 117n,dairy,957,465.34,7067.12,credit card,November
+56,3/6/2023,Mushroom - King Eryingii,snacks,434,687.44,7675.19,debit card,March
+57,5/16/2023,Soup - Campbells - Chicken Noodle,beverages,612,802.34,3055.5,debit card,May
+58,1/12/2023,"Red Snapper - Fillet, Skin On",bakery,657,769.05,6496.42,mobile payment,January
+59,9/3/2023,Ostrich - Fan Fillet,dairy,734,814.26,8940.49,debit card,September
+60,6/22/2023,Tamarillo,produce,559,266.42,9466.16,cash,June
+61,7/2/2023,Lid Tray - 12in Dome,dairy,857,232.23,3433.38,cash,July
+62,6/6/2023,Soup - Campbells Tomato Ravioli,pantry,846,309.56,999.86,credit card,June
+63,12/3/2023,Salmon - Fillets,dairy,900,655.97,6983.02,cash,December
+64,3/22/2023,Chinese Foods - Pepper Beef,meat,882,177.89,7477.01,mobile payment,March
+65,1/3/2023,Wine - Cave Springs Dry Riesling,produce,229,801.19,8925.53,debit card,January
+66,6/19/2023,"Soup - Campbells, Chix Gumbo",bakery,176,36.18,8479.84,mobile payment,June
+67,5/16/2023,Wine - Manischewitz Concord,produce,693,221.83,9279.57,cash,May
+68,2/17/2023,Wine - Chianti Classica Docg,pantry,769,766.58,6402.22,credit card,February
+69,2/6/2023,Jagermeister,produce,572,820.99,9856.37,debit card,February
+70,12/6/2023,Wine - Chateauneuf Du Pape,snacks,477,721.49,4829.79,credit card,December
+71,5/20/2023,Grapes - Black,dairy,884,861.73,3933.69,credit card,May
+72,4/16/2023,Extract - Lemon,meat,215,919.93,9141.38,mobile payment,April
+73,6/23/2023,"Rum - Light, Captain Morgan",beverages,365,892.1,9966.4,mobile payment,June
+74,6/17/2023,"Wine - White, Riesling, Henry Of",snacks,251,869.97,2916.95,cash,June
+75,11/10/2023,"Wine - Sherry Dry Sack, William",dairy,753,748.66,5733.59,cash,November
+76,4/1/2023,"Soup - Cream Of Broccoli, Dry",bakery,858,962.4,1719.62,cash,April
+77,4/25/2023,Crab Meat Claw Pasteurise,beverages,226,350.73,4098.74,cash,April
+78,6/24/2023,"Shrimp - Baby, Cold Water",produce,622,184.28,2987.3,credit card,June
+79,12/7/2023,Easy Off Oven Cleaner,pantry,552,72.82,5610.19,credit card,December
+80,1/16/2023,Tuna - Sushi Grade,bakery,264,337.75,155.09,debit card,January
+81,11/29/2023,Beer - Sleemans Cream Ale,bakery,531,651.05,6891.6,mobile payment,November
+82,10/27/2023,"Marsala - Sperone, Fine, D.o.c.",frozen foods,536,394.51,3290.3,mobile payment,October
+83,2/26/2023,"Chestnuts - Whole,canned",dairy,45,989.86,739.24,mobile payment,February
+84,2/3/2023,Emulsifier,beverages,673,804.01,6145.27,credit card,February
+85,3/18/2023,Beef - Ox Tongue,beverages,328,206.02,9826.51,mobile payment,March
+86,10/23/2023,"Mushroom - Enoki, Fresh",dairy,984,939.4,1220.65,debit card,October
+87,5/11/2023,Bols Melon Liqueur,bakery,678,97.45,3273.33,credit card,May
+88,9/10/2023,Orange Roughy 4/6 Oz,frozen foods,507,355.12,6268.09,cash,September
+89,5/31/2023,Gatorade - Cool Blue Raspberry,bakery,642,704.8,5841.37,mobile payment,May
+90,4/10/2023,"Chocolate - Semi Sweet, Calets",frozen foods,740,444.04,3446.56,debit card,April
+91,11/11/2023,Appetizer - Seafood Assortment,beverages,562,571.57,3721.78,debit card,November
+92,4/11/2023,Bacardi Breezer - Strawberry,snacks,793,426.68,9101.13,debit card,April
+93,10/19/2023,Calypso - Black Cherry Lemonade,beverages,303,743.3,1546.9,credit card,October
+94,9/29/2023,Duck - Whole,snacks,865,895.75,8646.74,cash,September
+95,2/11/2023,Food Colouring - Blue,bakery,888,946.66,7740.15,debit card,February
+96,5/20/2023,Pepper - Jalapeno,produce,563,531.08,8332.3,credit card,May
+97,3/31/2023,Wonton Wrappers,pantry,163,272.13,7931.63,debit card,March
+98,3/22/2023,"Pasta - Rotini, Colour, Dry",beverages,953,21.37,629.2,credit card,March
+99,8/6/2023,Flax Seed,dairy,634,909.45,6250.12,cash,August
+100,5/10/2023,Chevril,meat,211,646.93,9007.69,credit card,May
+101,4/9/2023,Cup - Translucent 7 Oz Clear,meat,385,604.03,7816.64,mobile payment,April
+102,3/10/2023,Rosemary - Fresh,dairy,77,826.09,1294.45,mobile payment,March
+103,5/28/2023,"Ecolab - Orange Frc, Cleaner",produce,547,10.61,5094.5,cash,May
+104,12/5/2023,Bread - Corn Muffaletta,snacks,14,980.71,4362.48,mobile payment,December
+105,1/17/2023,Quinoa,beverages,141,774.96,7749.65,cash,January
+106,5/18/2023,Longos - Grilled Salmon With Bbq,dairy,981,156.51,6423.67,credit card,May
+107,8/9/2023,Cheese - Stilton,bakery,368,679.02,964.92,debit card,August
+108,5/1/2023,Bread - Sour Batard,dairy,109,31.07,516.1,debit card,May
+109,5/14/2023,Mix - Cappucino Cocktail,frozen foods,641,660.44,6049.96,credit card,May
+110,6/6/2023,Flax Seed,dairy,532,418.75,7712.81,cash,June
+111,2/9/2023,"Mushrooms - Black, Dried",snacks,919,453.84,8911.9,credit card,February
+112,3/10/2023,Butter Sweet,meat,749,818.24,2391.49,debit card,March
+113,1/14/2023,Grand Marnier,dairy,476,453.58,2425.67,credit card,January
+114,7/4/2023,"Chicken - Breast, 5 - 7 Oz",bakery,176,940.84,6023.61,credit card,July
+115,8/22/2023,Gherkin - Sour,snacks,501,804.64,434.09,credit card,August
+116,3/29/2023,Buffalo - Striploin,dairy,790,432.26,5113.31,credit card,March
+117,11/21/2023,"Napkin - Cocktail,beige 2 - Ply",beverages,287,712.74,6873.03,cash,November
+118,5/13/2023,Lamb - Rack,bakery,265,515.69,7224.97,debit card,May
+119,7/31/2023,Soup - Cream Of Broccoli,beverages,705,988.3,5491.12,cash,July
+120,3/7/2023,Wine - Carmenere Casillero Del,produce,922,342.03,6719.73,cash,March
+121,5/13/2023,Chocolate - Compound Coating,pantry,831,246.86,4039.28,mobile payment,May
+122,3/17/2023,"Butter - Salted, Micro",snacks,604,87.59,6774.47,cash,March
+123,6/20/2023,Sprouts - Corn,bakery,762,259.95,5164.78,mobile payment,June
+124,1/9/2023,Muffin Mix - Corn Harvest,snacks,460,405.63,3030.84,cash,January
+125,11/4/2023,Zucchini - Green,bakery,65,331.54,5946.35,cash,November
+126,10/1/2023,"Oil - Truffle, Black",bakery,91,678.82,2250.42,mobile payment,October
+127,7/4/2023,Scallops - 10/20,pantry,937,555.2,4137.73,debit card,July
+128,10/9/2023,"Pepper - Red, Finger Hot",meat,693,298.55,4604.58,mobile payment,October
+129,11/8/2023,Cheese - Gorgonzola,frozen foods,153,158.61,3666.96,credit card,November
+130,2/22/2023,Gooseberry,pantry,361,338.09,9595.95,mobile payment,February
+131,3/27/2023,"Salmon - Atlantic, Fresh, Whole",frozen foods,938,670.31,8250.95,debit card,March
+132,8/25/2023,Chickhen - Chicken Phyllo,produce,819,3.48,1687.69,cash,August
+133,9/7/2023,Longos - Penne With Pesto,meat,451,236.96,580.04,debit card,September
+134,4/8/2023,"Lamb - Loin, Trimmed, Boneless",meat,476,193.41,3551.75,mobile payment,April
+135,2/1/2023,Sponge Cake Mix - Vanilla,bakery,521,520.78,727.1,cash,February
+136,1/29/2023,Water - Evian 355 Ml,frozen foods,401,183.61,6934.33,credit card,January
+137,6/25/2023,"Fish - Base, Bouillion",bakery,112,892.41,1678.01,mobile payment,June
+138,1/2/2023,"Nut - Hazelnut, Ground, Natural",frozen foods,852,355.01,9389.83,cash,January
+139,5/16/2023,Veal - Nuckle,bakery,494,137.16,1590.93,debit card,May
+140,4/19/2023,Soup Campbells - Italian Wedding,snacks,125,259.36,5466.12,cash,April
+141,6/22/2023,Tea - Jasmin Green,dairy,271,993.12,2590.24,debit card,June
+142,2/4/2023,Pepper - Cayenne,produce,783,164.77,9558.63,credit card,February
+143,5/4/2023,Muffin Orange Individual,dairy,431,881.75,7742.17,mobile payment,May
+144,5/9/2023,Muffin Mix - Chocolate Chip,snacks,492,556.12,1410.21,credit card,May
+145,3/9/2023,True - Vue Containers,pantry,123,820.55,2694.64,mobile payment,March
+146,2/5/2023,Corn - On The Cob,meat,454,253.82,8700.28,debit card,February
+147,6/11/2023,Bread - White Mini Epi,meat,363,729.26,1392.22,mobile payment,June
+148,12/2/2023,Hot Chocolate - Individual,bakery,24,196.08,9717.35,debit card,December
+149,5/21/2023,"Vinegar - Balsamic, White",pantry,448,93.62,2882.05,credit card,May
+150,7/14/2023,Sugar - Palm,beverages,634,362.8,3400.48,cash,July
+151,5/9/2023,Coffee - French Vanilla Frothy,pantry,224,975.74,2468.87,credit card,May
+152,10/10/2023,Bread - Petit Baguette,dairy,896,280.26,3700.98,mobile payment,October
+153,5/23/2023,"Coke - Classic, 355 Ml",meat,420,362.79,4640.4,mobile payment,May
+154,11/11/2023,Mince Meat - Filling,bakery,415,401.41,8843.93,credit card,November
+155,2/17/2023,Chickensplit Half,beverages,375,834.28,7604.88,mobile payment,February
+156,7/20/2023,Wine - Savigny - Les - Beaune,frozen foods,878,264.36,5273.41,debit card,July
+157,8/7/2023,Jagermeister,bakery,496,781.92,5353.26,debit card,August
+158,9/24/2023,"Jam - Blackberry, 20 Ml Jar",frozen foods,535,593.72,6872.34,credit card,September
+159,8/26/2023,Bread - Malt,produce,129,189.68,2244.96,debit card,August
+160,9/26/2023,Syrup - Kahlua Chocolate,produce,8,3.95,5670.7,debit card,September
+161,4/19/2023,Salt And Pepper Mix - Black,snacks,491,360.6,9604.98,mobile payment,April
+162,4/19/2023,Kiwano,snacks,589,730.93,1880.41,cash,April
+163,6/2/2023,General Purpose Trigger,dairy,561,937.74,9221.33,credit card,June
+164,8/7/2023,Cheese - Augre Des Champs,dairy,698,232.24,4916.48,debit card,August
+165,9/26/2023,Soup - Chicken And Wild Rice,meat,230,375.3,8701.53,credit card,September
+166,11/2/2023,"Mushroom - Trumpet, Dry",frozen foods,357,837.55,5167.85,credit card,November
+167,8/29/2023,"Soup - Knorr, Classic Can. Chili",dairy,505,944.02,9718.84,debit card,August
+168,11/26/2023,Island Oasis - Ice Cream Mix,beverages,419,646.69,4600.01,mobile payment,November
+169,6/21/2023,Pail With Metal Handle 16l White,frozen foods,732,2.43,2040.03,mobile payment,June
+170,6/3/2023,"Tabasco Sauce, 2 Oz",snacks,629,837.67,1350.6,credit card,June
+171,10/9/2023,Peppercorns - Green,beverages,87,411.23,6240.63,debit card,October
+172,4/9/2023,"Split Peas - Yellow, Dry",bakery,182,344.43,3436.54,mobile payment,April
+173,5/13/2023,Sugar - Invert,bakery,47,972.33,9507.31,debit card,May
+174,3/18/2023,Glove - Cutting,meat,320,867.24,6558.63,mobile payment,March
+175,10/12/2023,"Shrimp, Dried, Small / Lb",beverages,449,434.87,3773.22,mobile payment,October
+176,2/28/2023,Swiss Chard,pantry,284,608.71,7322.21,mobile payment,February
+177,7/8/2023,Beets - Pickled,dairy,938,29.23,5648.39,debit card,July
+178,3/19/2023,Cookie Double Choco,frozen foods,229,516.3,8917.44,cash,March
+179,9/30/2023,Wine - Fontanafredda Barolo,pantry,899,757.22,7462.36,debit card,September
+180,10/1/2023,"Veal - Inside Round / Top, Lean",beverages,757,375.14,4927.97,debit card,October
+181,7/31/2023,Garbage Bags - Clear,produce,109,526.37,2766.19,debit card,July
+182,1/9/2023,Tomato - Peeled Italian Canned,meat,636,94.78,5418.71,debit card,January
+183,4/30/2023,Edible Flower - Mixed,bakery,611,126.01,6318.82,mobile payment,April
+184,11/20/2023,Beef - Inside Round,frozen foods,670,565.29,9287.15,debit card,November
+185,6/18/2023,Cheese - Marble,dairy,547,534.61,5775.74,debit card,June
+186,11/6/2023,"Radish - Black, Winter, Organic",bakery,28,75.22,3899.1,debit card,November
+187,11/24/2023,Gingerale - Diet - Schweppes,produce,831,908.66,7095.92,mobile payment,November
+188,7/5/2023,Plastic Arrow Stir Stick,snacks,961,647.75,9145.9,cash,July
+189,1/9/2023,Veal - Leg,pantry,192,583.25,7239.64,mobile payment,January
+190,1/19/2023,Artichoke - Fresh,produce,172,102.74,6774.61,debit card,January
+191,6/20/2023,"Pail - 15l White, With Handle",produce,609,279.84,7994.6,mobile payment,June
+192,3/11/2023,Parsnip,bakery,202,507.98,4756.33,cash,March
+193,9/6/2023,"Soup - Campbells, Minestrone",produce,327,363.44,6322.4,mobile payment,September
+194,5/9/2023,"Basil - Dry, Rubbed",snacks,586,298.43,3721.96,credit card,May
+195,7/29/2023,Green Tea Refresher,beverages,958,883.44,7719.27,credit card,July
+196,11/8/2023,Longos - Greek Salad,dairy,293,708.79,2038.38,credit card,November
+197,10/9/2023,Cake - Lemon Chiffon,frozen foods,57,197.1,7117.49,debit card,October
+198,8/15/2023,Rice - Brown,beverages,146,688.53,5781.63,credit card,August
+199,3/10/2023,Eggs - Extra Large,produce,1000,688.41,169.29,credit card,March
+200,3/4/2023,Muffin Mix - Chocolate Chip,meat,20,24.37,8532.84,credit card,March
+201,2/4/2023,Bread Base - Italian,frozen foods,797,211.19,4256.04,mobile payment,February
+202,8/4/2023,Wine - Malbec Trapiche Reserve,dairy,845,370.89,7103.21,cash,August
+203,8/27/2023,Mikes Hard Lemonade,beverages,221,221.24,2177.17,mobile payment,August
+204,1/13/2023,"Onions - Dried, Chopped",produce,142,953.91,405.03,credit card,January
+205,6/2/2023,"Split Peas - Yellow, Dry",bakery,782,978.55,7494.02,debit card,June
+206,12/17/2023,Barramundi,meat,891,954.36,1759.3,debit card,December
+207,2/6/2023,Appetizer - Assorted Box,produce,223,603.98,5272.02,mobile payment,February
+208,1/24/2023,Dikon,beverages,359,255.3,4017.1,debit card,January
+209,1/3/2023,Coffee - Frthy Coffee Crisp,bakery,283,649.64,4576.1,debit card,January
+210,6/26/2023,Wine - Prosecco Valdobienne,snacks,414,59.67,7289.65,mobile payment,June
+211,10/13/2023,"Nut - Chestnuts, Whole",produce,965,899.88,8371.84,debit card,October
+212,2/3/2023,Flour - All Purpose,pantry,140,78.84,6881.41,mobile payment,February
+213,11/13/2023,Lobster - Live,beverages,784,408.31,7028.63,cash,November
+214,3/12/2023,Beer - Rickards Red,pantry,866,899.46,8073.79,debit card,March
+215,12/6/2023,Corn Syrup,bakery,329,264.55,1149.49,credit card,December
+216,5/6/2023,Bread Bowl Plain,snacks,113,168.02,4299.78,cash,May
+217,8/1/2023,"Turkey - Breast, Boneless Sk On",pantry,714,634.04,7029.51,debit card,August
+218,12/5/2023,Wine - Chianti Classica Docg,bakery,635,786.75,1156.49,credit card,December
+219,1/12/2023,Breadfruit,dairy,714,434.03,264.93,credit card,January
+220,8/11/2023,Wine - Red Oakridge Merlot,dairy,707,257.01,1421.42,credit card,August
+221,1/3/2023,Lettuce - Spring Mix,bakery,352,172.6,6590.48,cash,January
+222,7/12/2023,Marjoram - Fresh,snacks,899,986.64,458.6,debit card,July
+223,10/13/2023,Chocolate Bar - Coffee Crisp,meat,100,695.03,7702.84,debit card,October
+224,12/15/2023,"Sauce - Gravy, Au Jus, Mix",dairy,833,696.13,3595.23,credit card,December
+225,11/16/2023,Spice - Greek 1 Step,frozen foods,214,616.59,6974.39,cash,November
+226,10/15/2023,"Coke - Diet, 355 Ml",produce,217,109.84,2689.97,credit card,October
+227,9/17/2023,Wine - Vouvray Cuvee Domaine,dairy,435,380.18,8505.29,cash,September
+228,4/25/2023,Soup - Campbells Bean Medley,snacks,997,233.89,7225.81,debit card,April
+229,9/5/2023,Sauce - Hp,pantry,334,619.08,181.01,mobile payment,September
+230,12/14/2023,Pineapple - Golden,frozen foods,601,548.68,7813.41,debit card,December
+231,5/11/2023,Cheese - Comte,beverages,154,840.38,1251.85,credit card,May
+232,2/10/2023,Bread - Rye,dairy,445,532.09,5203.65,debit card,February
+233,9/20/2023,Wine - Kwv Chenin Blanc South,produce,139,657.28,1244.15,cash,September
+234,3/23/2023,Limes,frozen foods,968,789.36,6630.2,mobile payment,March
+235,4/8/2023,Flower - Commercial Bronze,meat,412,411.34,4883.36,debit card,April
+236,12/25/2023,Olives - Kalamata,frozen foods,320,811.85,9494.2,mobile payment,December
+237,4/28/2023,Parasol Pick Stir Stick,snacks,396,414.03,9424.66,mobile payment,April
+238,3/3/2023,Nut - Pumpkin Seeds,meat,675,978.14,2635.12,debit card,March
+239,7/22/2023,Carrots - Mini Red Organic,produce,661,867.26,2740.11,credit card,July
+240,4/1/2023,Wine - Beringer Founders Estate,pantry,361,69.01,6939.97,cash,April
+241,2/9/2023,Pork Salted Bellies,pantry,838,833.76,3996.99,mobile payment,February
+242,10/23/2023,Pork - European Side Bacon,dairy,639,165.16,7815.23,cash,October
+243,3/28/2023,"Salsify, Organic",frozen foods,398,805.07,1862.98,cash,March
+244,2/14/2023,Barley - Pearl,bakery,789,944.78,334.89,debit card,February
+245,8/5/2023,Venison - Striploin,beverages,308,941.67,1530.26,credit card,August
+246,2/22/2023,Pickle - Dill,frozen foods,218,791.35,1660.99,debit card,February
+247,9/29/2023,Juice - Apple Cider,beverages,696,649.12,7105.1,debit card,September
+248,6/26/2023,Lychee - Canned,dairy,422,448.69,9097.08,credit card,June
+249,3/18/2023,"Jam - Blackberry, 20 Ml Jar",produce,121,793.71,1771.48,mobile payment,March
+250,4/2/2023,Plate Foam Laminated 9in Blk,beverages,684,371.31,8557.49,credit card,April
+251,3/23/2023,"Arctic Char - Fresh, Whole",snacks,128,652.87,1425.34,cash,March
+252,8/21/2023,Puree - Kiwi,beverages,647,299.63,1412.73,mobile payment,August
+253,2/21/2023,Napkin White - Starched,snacks,293,12.12,1542.07,credit card,February
+254,3/9/2023,"Tea - Darjeeling, Azzura",dairy,301,308.06,9999.16,credit card,March
+255,3/7/2023,"Soup - Clam Chowder, Dry Mix",snacks,464,588.45,2803.01,mobile payment,March
+256,1/17/2023,Beer - Camerons Auburn,produce,376,239.9,8641.06,debit card,January
+257,12/4/2023,"Beef - Tenderlion, Center Cut",frozen foods,371,611.88,5460.31,debit card,December
+258,1/25/2023,"Pasta - Spaghetti, Dry",bakery,21,793.2,695.34,mobile payment,January
+259,4/12/2023,Straw - Regular,frozen foods,194,911.24,1991.23,mobile payment,April
+260,2/27/2023,"Trout - Rainbow, Fresh",snacks,99,120.61,8011.14,debit card,February
+261,7/8/2023,"Wine - White, Pelee Island",produce,558,435.35,6838.48,mobile payment,July
+262,2/28/2023,"Wine - Magnotta, White",frozen foods,585,443.49,368.98,mobile payment,February
+263,4/19/2023,Ecolab - Ster Bac,produce,28,58.65,1321.49,credit card,April
+264,7/29/2023,Chocolate - Compound Coating,meat,560,703.21,2008.88,mobile payment,July
+265,9/6/2023,Toamtoes 6x7 Select,bakery,274,727.44,4840.06,cash,September
+266,12/2/2023,Toamtoes 6x7 Select,bakery,241,312.75,5327.48,credit card,December
+267,11/16/2023,Assorted Desserts,snacks,762,329.72,9021.12,mobile payment,November
+268,6/23/2023,Veal - Inside,dairy,796,939.84,8423.76,debit card,June
+269,12/24/2023,Sauce - Thousand Island,pantry,378,894.99,6252.49,mobile payment,December
+270,9/10/2023,Compound - Raspberry,snacks,24,869.15,9515.67,debit card,September
+271,10/25/2023,Potatoes - Yukon Gold 5 Oz,frozen foods,148,875.54,1529.75,cash,October
+272,6/7/2023,Pork - Smoked Back Bacon,pantry,523,140.86,7999.97,mobile payment,June
+273,6/4/2023,Kiwi Gold Zespri,produce,40,654.47,1014.28,cash,June
+274,8/21/2023,"Wine - White, Concha Y Toro",produce,216,928.66,7334.52,cash,August
+275,1/29/2023,Carbonated Water - White Grape,pantry,590,631.21,1253.79,credit card,January
+276,5/16/2023,Arctic Char - Fillets,meat,605,268.27,3719.45,debit card,May
+277,11/11/2023,"Butter - Salted, Micro",snacks,209,544.2,7575.01,debit card,November
+278,2/14/2023,Veal - Loin,pantry,231,630.62,5820.76,credit card,February
+279,12/5/2023,Tarragon - Fresh,dairy,428,318.16,6930.94,credit card,December
+280,10/17/2023,Tea - Herbal Orange Spice,pantry,792,265,6381.65,credit card,October
+281,7/30/2023,Pepper - Scotch Bonnet,pantry,113,497.63,9487.34,mobile payment,July
+282,9/6/2023,Tea - Mint,beverages,89,52.26,5965.46,cash,September
+283,4/12/2023,Jack Daniels,snacks,718,331,4001.21,mobile payment,April
+284,3/25/2023,Sugar - Invert,beverages,385,518.46,7293.57,cash,March
+285,4/18/2023,Wine - Rhine Riesling Wolf Blass,dairy,768,920.93,8757.34,cash,April
+286,12/19/2023,Garlic - Peeled,pantry,85,779.78,8934.4,debit card,December
+287,4/13/2023,Paste - Black Olive,dairy,821,681.13,9950.48,debit card,April
+288,12/14/2023,Ice Cream - Chocolate,snacks,603,904.65,2627.89,debit card,December
+289,5/23/2023,Squid Ink,dairy,603,364.46,6438.86,credit card,May
+290,12/27/2023,"Thyme - Lemon, Fresh",meat,228,502.03,8896.28,credit card,December
+291,4/9/2023,Veal - Insides Provini,meat,972,511.1,7607.2,debit card,April
+292,12/28/2023,"Beef - Ground, Extra Lean, Fresh",bakery,946,354.47,5868.46,cash,December
+293,9/10/2023,Table Cloth 54x72 White,pantry,209,718.09,7328.33,debit card,September
+294,6/14/2023,Cheese - Taleggio D.o.p.,pantry,347,371.11,9196.5,cash,June
+295,10/2/2023,Soup Campbells,dairy,162,279.01,201.54,mobile payment,October
+296,9/7/2023,Cookies Oatmeal Raisin,frozen foods,187,579.46,7793.36,credit card,September
+297,11/10/2023,"Bread - White, Sliced",beverages,171,521.66,4178.57,credit card,November
+298,12/5/2023,Nescafe - Frothy French Vanilla,meat,789,184.02,8332.92,debit card,December
+299,3/20/2023,Marjoram - Fresh,beverages,184,866.31,8498.96,debit card,March
+300,6/5/2023,Yogurt - French Vanilla,bakery,97,740.26,8464.28,debit card,June
+301,10/31/2023,Alize Red Passion,snacks,198,0.03,6407.53,cash,October
+302,12/7/2023,Syrup - Monin - Blue Curacao,bakery,377,11.78,8663.87,debit card,December
+303,1/27/2023,Melon - Watermelon Yellow,frozen foods,30,677.75,9935.68,mobile payment,January
+304,11/5/2023,Chocolate - Compound Coating,bakery,297,571.54,4127.34,cash,November
+305,9/23/2023,Beer - True North Lager,meat,60,665.87,2673.71,credit card,September
+306,5/19/2023,"Pepper - Chillies, Crushed",beverages,689,134.14,6464.72,cash,May
+307,6/20/2023,Aspic - Clear,pantry,710,449.34,7186.64,credit card,June
+308,11/25/2023,"Fish - Artic Char, Cold Smoked",frozen foods,307,424.72,6410.03,credit card,November
+309,1/12/2023,Phyllo Dough,meat,771,265.58,9595.38,mobile payment,January
+310,12/12/2023,Seaweed Green Sheets,beverages,21,507.71,3964.2,credit card,December
+311,5/13/2023,Pastry - Key Limepoppy Seed Tea,dairy,264,259.24,4498.35,credit card,May
+312,9/24/2023,Sprouts - Brussel,frozen foods,27,687.44,471.11,cash,September
+313,6/5/2023,"Rum - Cream, Amarula",frozen foods,637,881.69,1550.32,cash,June
+314,11/23/2023,Beer - Muskoka Cream Ale,beverages,520,31.29,8617.99,cash,November
+315,3/25/2023,"Lamb - Leg, Boneless",bakery,729,21.54,432.79,debit card,March
+316,3/18/2023,Pepper - Chilli Seeds Mild,beverages,841,548.97,6468.94,debit card,March
+317,3/3/2023,Chick Peas - Dried,frozen foods,716,750.4,9653.96,cash,March
+318,1/17/2023,Lettuce - Spring Mix,beverages,201,490.54,59.14,mobile payment,January
+319,3/25/2023,"Turkey - Breast, Double",dairy,153,469.92,2162.1,mobile payment,March
+320,1/1/2023,Juice - Prune,beverages,139,587.75,9914.86,mobile payment,January
+321,9/2/2023,Versatainer Nc - 8288,produce,334,329.92,3813.82,cash,September
+322,3/30/2023,Beer - Steamwhistle,dairy,724,505.14,3894.17,cash,March
+323,7/10/2023,"Shrimp - 16 - 20 Cooked, Peeled",beverages,67,217.46,1548.83,cash,July
+324,4/11/2023,Bulgar,bakery,96,681.07,8746.42,credit card,April
+325,10/7/2023,Cheese - Brick With Pepper,meat,701,529.97,8191.17,credit card,October
+326,2/1/2023,Quinoa,frozen foods,758,833.94,7706.82,mobile payment,February
+327,11/27/2023,Sobe - Orange Carrot,bakery,538,615.8,5254.57,mobile payment,November
+328,4/6/2023,"Sugar - Sweet N Low, Individual",pantry,439,588.46,2311.35,credit card,April
+329,4/22/2023,Sproutsmustard Cress,pantry,911,661.6,2629.98,cash,April
+330,2/27/2023,Cake - Mini Potato Pancake,bakery,431,247.26,2732.4,credit card,February
+331,5/6/2023,Bread - Dark Rye,meat,46,860.6,2377.65,cash,May
+332,5/1/2023,Beer - Fruli,meat,935,669.77,9938.59,debit card,May
+333,12/15/2023,Haggis,pantry,44,714.53,9623.68,credit card,December
+334,4/13/2023,Bread - Onion Focaccia,frozen foods,208,433.75,800.39,mobile payment,April
+335,7/31/2023,Sole - Iqf,meat,351,373.24,2705.65,credit card,July
+336,3/16/2023,Bouq All Italian - Primerba,meat,554,457.62,6767.82,credit card,March
+337,1/11/2023,Bread - French Baquette,frozen foods,692,230.75,2051.43,credit card,January
+338,9/9/2023,Bouq All Italian - Primerba,dairy,990,459.96,3059.49,mobile payment,September
+339,9/1/2023,Sauce Tomato Pouch,snacks,800,277.84,7684.77,cash,September
+340,5/17/2023,Cup - Translucent 7 Oz Clear,dairy,683,416.73,6380.74,debit card,May
+341,1/6/2023,Mayonnaise - Individual Pkg,snacks,601,738.95,3680.08,credit card,January
+342,12/25/2023,Kellogs Raisan Bran Bars,beverages,940,702.13,7814.66,mobile payment,December
+343,2/24/2023,Spice - Montreal Steak Spice,produce,725,898.21,1613.43,debit card,February
+344,3/20/2023,Wine - Chateau Timberlay,bakery,886,32,4609.39,debit card,March
+345,5/12/2023,Oil - Margarine,frozen foods,505,367.85,7626.99,credit card,May
+346,4/22/2023,"Tomatoes - Plum, Canned",dairy,23,763.5,4286.46,cash,April
+347,1/24/2023,Baking Powder,beverages,121,648.59,7533.39,credit card,January
+348,10/5/2023,Flower - Commercial Bronze,produce,276,222.66,9388.16,debit card,October
+349,9/6/2023,Trueblue - Blueberry Cranberry,beverages,618,622.65,8853.94,debit card,September
+350,8/1/2023,Chicken Breast Wing On,beverages,161,230.78,3458.22,cash,August
+351,9/2/2023,"Club Soda - Schweppes, 355 Ml",meat,322,858.8,8098,debit card,September
+352,10/10/2023,Vinegar - Red Wine,bakery,901,284.79,5769.14,mobile payment,October
+353,4/24/2023,"Glass - Wine, Plastic, Clear 5 Oz",produce,678,928.64,533.91,credit card,April
+354,3/9/2023,Juice - Orangina,snacks,137,42.37,2198.92,cash,March
+355,7/30/2023,Wine - Toasted Head,meat,664,0.01,4587.96,mobile payment,July
+356,3/3/2023,Tuna - Loin,beverages,49,427.1,4200.16,mobile payment,March
+357,8/24/2023,Cake - French Pear Tart,snacks,312,868.23,8553.91,debit card,August
+358,4/19/2023,Silicone Parch. 16.3x24.3,bakery,398,753.81,601.81,credit card,April
+359,5/13/2023,Tofu - Firm,snacks,3,486.42,7262.87,debit card,May
+360,1/23/2023,Alize Sunset,snacks,191,743.29,1201.82,cash,January
+361,3/19/2023,Hand Towel,snacks,592,447.7,7738.46,mobile payment,March
+362,9/7/2023,Milk - 2% 250 Ml,snacks,537,636.23,2507.74,cash,September
+363,4/21/2023,Onions - Cippolini,bakery,825,948.9,5965.73,cash,April
+364,6/19/2023,Haggis,snacks,18,932.84,7744.33,debit card,June
+365,3/21/2023,Lemons,beverages,948,142.01,6164.73,credit card,March
+366,3/15/2023,Green Scrubbie Pad H.duty,pantry,866,720.52,8547.97,debit card,March
+367,4/25/2023,Mushrooms - Honey,beverages,146,485.08,4501.23,credit card,April
+368,3/30/2023,Tea - Herbal Orange Spice,produce,359,415.52,4649.9,mobile payment,March
+369,4/5/2023,"Fish - Artic Char, Cold Smoked",pantry,937,107.05,8822.14,cash,April
+370,5/19/2023,Food Colouring - Green,frozen foods,320,385.43,3691.7,credit card,May
+371,6/25/2023,Flour Dark Rye,meat,582,770.14,3603.75,mobile payment,June
+372,2/18/2023,Wine - Balbach Riverside,frozen foods,109,654.99,5850.78,cash,February
+373,12/5/2023,Muffin Orange Individual,frozen foods,579,793.04,911.94,mobile payment,December
+374,1/25/2023,Cheese - Cheddarsliced,beverages,317,164.45,6866.42,debit card,January
+375,9/21/2023,Island Oasis - Magarita Mix,bakery,171,896.6,8716.95,credit card,September
+376,5/26/2023,"Shrimp - 16/20, Peeled Deviened",dairy,722,797.84,7830.25,cash,May
+377,11/21/2023,Puree - Passion Fruit,frozen foods,134,194.49,602.38,debit card,November
+378,7/7/2023,Wasabi Powder,pantry,638,843.68,9087.71,mobile payment,July
+379,1/25/2023,Orange Roughy 6/8 Oz,bakery,332,202.71,96.66,mobile payment,January
+380,2/6/2023,Cheese - Swiss Sliced,pantry,594,631.94,1172.91,mobile payment,February
+381,3/7/2023,Crush - Cream Soda,pantry,511,758.46,9347.13,credit card,March
+382,9/10/2023,V8 Pet,snacks,782,566.71,8100.62,cash,September
+383,6/19/2023,Bay Leaf Ground,dairy,435,657.45,8873.26,credit card,June
+384,5/11/2023,Oil - Coconut,produce,942,863.75,342.12,debit card,May
+385,5/4/2023,Beer - Sleemans Honey Brown,snacks,120,231.51,2400.2,credit card,May
+386,1/11/2023,Soup - Cream Of Potato / Leek,snacks,882,660.57,4156.37,debit card,January
+387,3/7/2023,Shrimp - Black Tiger 8 - 12,snacks,375,881.4,4784.92,debit card,March
+388,1/26/2023,Ham - Proscuitto,pantry,254,581.9,9444.38,credit card,January
+389,1/21/2023,Cookie Dough - Chocolate Chip,pantry,433,789.94,2267.93,credit card,January
+390,4/7/2023,Roe - White Fish,produce,114,598.3,1310.48,cash,April
+391,9/2/2023,Beer - Heinekin,produce,912,313.82,6286.85,credit card,September
+392,8/5/2023,Bread - Bistro Sour,frozen foods,96,426.08,168.19,credit card,August
+393,6/15/2023,Wine - Ej Gallo Sonoma,beverages,709,363.73,2138.37,mobile payment,June
+394,5/22/2023,Juice - Mango,pantry,881,422.29,2416.42,mobile payment,May
+395,11/23/2023,Okra,pantry,874,413.59,8061.26,cash,November
+396,4/15/2023,Rhubarb,meat,760,848.52,3886.7,credit card,April
+397,10/2/2023,"Mustard - Dry, Powder",snacks,250,239.86,8540.52,cash,October
+398,2/9/2023,"Pasta - Fettuccine, Egg, Fresh",dairy,763,574.55,400.67,mobile payment,February
+399,5/21/2023,Wine - Sogrape Mateus Rose,bakery,64,220.56,7409.13,credit card,May
+400,11/7/2023,"Lettuce - Mini Greens, Whole",meat,63,579.84,6898.02,cash,November
+401,2/15/2023,Shichimi Togarashi Peppeers,dairy,670,812.34,2257.08,mobile payment,February
+402,3/27/2023,"Beef - Tongue, Cooked",produce,722,135.26,4600.16,debit card,March
+403,3/26/2023,Ecolab - Ster Bac,meat,435,144.51,286.71,mobile payment,March
+404,2/6/2023,Peach - Halves,dairy,305,541.49,5063.62,cash,February
+405,3/14/2023,French Pastries,dairy,494,368.78,7599.81,cash,March
+406,11/12/2023,"Wine - White, Pelee Island",snacks,672,766.06,8573.84,debit card,November
+407,5/26/2023,"Fish - Artic Char, Cold Smoked",beverages,462,999.64,663.33,debit card,May
+408,6/6/2023,Coffee - 10oz Cup 92961,bakery,29,40.29,1585.59,mobile payment,June
+409,6/30/2023,Bagel - Whole White Sesame,meat,966,488.64,8597.15,credit card,June
+410,6/19/2023,Sauce - Sesame Thai Dressing,snacks,125,624.44,6002.05,credit card,June
+411,8/28/2023,Lettuce - Boston Bib,frozen foods,140,942.15,6906.49,debit card,August
+412,3/23/2023,"Carrots - Mini, Stem On",dairy,412,575.26,738.78,credit card,March
+413,10/15/2023,Muffin Mix - Corn Harvest,dairy,790,584.64,9380.31,mobile payment,October
+414,12/21/2023,"Pepper - Red, Finger Hot",produce,989,308.91,5170.51,cash,December
+415,7/25/2023,Tray - 16in Rnd Blk,bakery,503,957.42,8581,debit card,July
+416,2/24/2023,"Nut - Pecan, Pieces",meat,778,712.54,8008.3,mobile payment,February
+417,7/23/2023,Bread - Raisin Walnut Oval,produce,249,553.67,8054.13,mobile payment,July
+418,5/2/2023,"Napkin - Cocktail,beige 2 - Ply",snacks,296,453.14,8412.48,cash,May
+419,4/26/2023,Syrup - Monin - Blue Curacao,frozen foods,989,130.06,2509.75,credit card,April
+420,7/20/2023,Soup - Cream Of Broccoli,frozen foods,641,458.46,35.01,mobile payment,July
+421,9/18/2023,Tea - Camomele,bakery,285,367.3,4969.17,cash,September
+422,12/15/2023,Wine - Ej Gallo Sonoma,bakery,463,943.31,5837.72,mobile payment,December
+423,9/29/2023,Butter Ripple - Phillips,beverages,177,735.64,9788.24,mobile payment,September
+424,10/8/2023,Tea - Herbal - 6 Asst,frozen foods,844,485.96,7084.84,mobile payment,October
+425,6/6/2023,Cup - Translucent 7 Oz Clear,dairy,245,722.6,3998.62,mobile payment,June
+426,1/28/2023,Versatainer Nc - 8288,produce,137,999.46,8797.18,cash,January
+427,2/28/2023,Compound - Strawberry,pantry,939,36.46,6343.73,credit card,February
+428,12/30/2023,Pastry - Baked Cinnamon Stick,dairy,778,404.5,3767.42,debit card,December
+429,11/27/2023,Lemon Pepper,dairy,568,760.33,4873.11,mobile payment,November
+430,4/23/2023,Pork - Kidney,produce,367,308.32,2196.96,debit card,April
+431,10/23/2023,Muffin Batt - Carrot Spice,meat,820,366.1,3844.63,cash,October
+432,3/6/2023,Ice Cream - Vanilla,bakery,975,705.5,1836.33,mobile payment,March
+433,12/5/2023,Bread Base - Goodhearth,frozen foods,974,195.66,7575.99,credit card,December
+434,10/26/2023,Bacardi Limon,produce,839,506.3,3179.57,cash,October
+435,8/26/2023,Baking Powder,bakery,749,129.3,1269.38,credit card,August
+436,3/28/2023,Remy Red,bakery,811,47.26,7785.35,mobile payment,March
+437,3/7/2023,Wine - Riesling Alsace Ac 2001,frozen foods,468,956.86,4153.29,mobile payment,March
+438,8/26/2023,Ice Cream Bar - Oreo Sandwich,produce,744,352.34,1051.41,mobile payment,August
+439,10/11/2023,Nori Sea Weed - Gold Label,bakery,28,383.03,1645.24,mobile payment,October
+440,5/21/2023,Cheese - Shred Cheddar / Mozza,frozen foods,275,360.89,2786.41,mobile payment,May
+441,1/18/2023,"Pasta - Rotini, Dry",meat,607,305.08,3056.9,mobile payment,January
+442,10/24/2023,Lotus Rootlets - Canned,meat,198,894.55,5371.53,cash,October
+443,6/13/2023,Nescafe - Frothy French Vanilla,produce,71,936.16,1876.57,debit card,June
+444,7/9/2023,Soy Protein,produce,729,888.96,3725.11,credit card,July
+445,10/23/2023,"Mushroom - Enoki, Fresh",pantry,261,238.41,9576.27,credit card,October
+446,8/8/2023,Juice - Lagoon Mango,bakery,134,100.07,6372.53,debit card,August
+447,3/13/2023,Cheese - Grie Des Champ,beverages,343,953.55,7646.39,mobile payment,March
+448,12/10/2023,Cocktail Napkin Blue,beverages,574,752.35,5132.48,cash,December
+449,8/24/2023,"Yogurt - Banana, 175 Gr",pantry,201,659.04,972.82,cash,August
+450,7/19/2023,"Pasta - Lasagne, Fresh",bakery,107,388.38,4947.65,credit card,July
+451,11/29/2023,Wine - Rosso Toscano Igt,bakery,448,809.45,4280.4,credit card,November
+452,1/31/2023,Muffin Hinge - 211n,produce,274,922.49,1944.62,debit card,January
+453,2/26/2023,Salt - Sea,bakery,80,769.44,6654.18,debit card,February
+454,8/6/2023,Beef - Montreal Smoked Brisket,beverages,893,780.22,1833.72,cash,August
+455,7/19/2023,Wine - Chianti Classica Docg,produce,68,819.77,1685.55,credit card,July
+456,2/1/2023,Wine - Riesling Dr. Pauly,produce,68,218.41,956.68,cash,February
+457,7/18/2023,Potatoes - Idaho 80 Count,meat,159,730.28,4020.07,cash,July
+458,4/30/2023,Wine - Soave Folonari,frozen foods,467,550.39,1780.76,debit card,April
+459,7/27/2023,"Wine - Red, Metus Rose",frozen foods,673,471.39,4055.31,cash,July
+460,2/12/2023,"Turnip - White, Organic",beverages,978,17.88,3400.06,mobile payment,February
+461,5/9/2023,Wine - Beringer Founders Estate,pantry,715,406.11,4040.62,mobile payment,May
+462,12/21/2023,English Muffin,beverages,474,303.88,1273.61,cash,December
+463,7/13/2023,Flour - All Purpose,beverages,470,766.69,8736.44,credit card,July
+464,12/29/2023,Potatoes - Mini Red,snacks,88,908.74,8139.6,debit card,December
+465,10/5/2023,Bouq All Italian - Primerba,frozen foods,739,800.88,2533.97,cash,October
+466,12/2/2023,Milk - 2% 250 Ml,bakery,540,717.32,3863,mobile payment,December
+467,3/3/2023,Cheese - Mozzarella,pantry,680,43.73,7103.03,mobile payment,March
+468,9/23/2023,"Wine - Red, Harrow Estates, Cab",snacks,658,74.15,4944.48,mobile payment,September
+469,8/19/2023,Flax Seed,pantry,259,431.94,7860.05,credit card,August
+470,1/28/2023,Fruit Mix - Light,bakery,111,665.45,2387.35,credit card,January
+471,11/19/2023,Mushroom - Morel Frozen,snacks,339,239.16,4618.26,credit card,November
+472,8/28/2023,Vinegar - White,dairy,465,112.06,7808.32,debit card,August
+473,6/4/2023,Whmis Spray Bottle Graduated,bakery,119,282.3,4015.59,cash,June
+474,7/8/2023,Soup - Boston Clam Chowder,beverages,361,252.52,6250.09,cash,July
+475,5/10/2023,Pasta - Canelloni,snacks,672,172.95,5422.53,credit card,May
+476,9/27/2023,Salmon Steak - Cohoe 6 Oz,dairy,203,707.72,8748.54,cash,September
+477,3/4/2023,Lettuce - Radicchio,dairy,947,996.99,1667.12,cash,March
+478,5/27/2023,Wine - Pinot Noir Latour,bakery,355,454.31,3629.24,credit card,May
+479,12/1/2023,Grapes - Green,beverages,273,351.4,514.39,debit card,December
+480,2/16/2023,"Crab - Blue, Frozen",snacks,528,88.23,8355.01,debit card,February
+481,11/23/2023,Beans - Wax,dairy,544,341.08,9858.53,mobile payment,November
+482,10/15/2023,"Flour - Bran, Red",dairy,534,162.93,3654.4,mobile payment,October
+483,4/18/2023,Bread - Flat Bread,frozen foods,35,706.01,6660.17,cash,April
+484,9/23/2023,Soup - Campbells Asian Noodle,meat,22,72.53,2928.03,mobile payment,September
+485,5/7/2023,Oil - Avocado,meat,974,510.93,6239.84,cash,May
+486,7/16/2023,Radish,pantry,385,942.74,9450.84,mobile payment,July
+487,5/6/2023,Tea - Herbal Sweet Dreams,produce,681,687.13,8548.61,debit card,May
+488,11/22/2023,Containter - 3oz Microwave Rect.,meat,573,601.57,7184.51,credit card,November
+489,3/19/2023,Sherry - Dry,produce,251,689.05,6880.24,credit card,March
+490,4/5/2023,Duck - Fat,dairy,914,404.79,6195.17,cash,April
+491,9/7/2023,Cabbage - Green,dairy,472,19.44,3060.1,mobile payment,September
+492,6/26/2023,Buffalo - Short Rib Fresh,frozen foods,861,901.1,31.12,debit card,June
+493,5/30/2023,Kellogs All Bran Bars,bakery,965,979.28,4162.63,debit card,May
+494,8/24/2023,Asparagus - Frozen,produce,590,78.36,2150.32,debit card,August
+495,5/10/2023,Cabbage - Red,meat,706,543.55,9090.04,cash,May
+496,7/11/2023,Longan,bakery,241,576.48,7244.78,mobile payment,July
+497,11/30/2023,Chicken - Livers,beverages,978,522.06,3607.74,debit card,November
+498,9/24/2023,Lettuce - Green Leaf,pantry,576,679.13,3158.17,credit card,September
+499,12/6/2023,Mustard - Pommery,snacks,923,322.16,7055.46,mobile payment,December
+500,3/20/2023,Wine - Cousino Macul Antiguas,pantry,844,313.49,6146.01,cash,March
+501,7/5/2023,Quiche Assorted,snacks,810,377.51,237.51,cash,July
+502,11/13/2023,Tahini Paste,dairy,596,106.58,7248.76,cash,November
+503,10/26/2023,Flour - Strong Pizza,pantry,997,266.78,9680.08,credit card,October
+504,6/13/2023,Sour Puss Raspberry,beverages,242,324.26,3047.57,credit card,June
+505,8/8/2023,Dasheen,bakery,359,513.06,7844.08,credit card,August
+506,7/24/2023,Oats Large Flake,dairy,957,845.07,8468.18,debit card,July
+507,8/15/2023,Wanton Wrap,meat,970,315.88,7764.28,cash,August
+508,3/25/2023,Cranberries - Frozen,dairy,289,368.21,9137.9,mobile payment,March
+509,1/4/2023,Jam - Apricot,beverages,769,466.74,7037.45,credit card,January
+510,9/28/2023,Bandage - Flexible Neon,frozen foods,828,252.79,6868,cash,September
+511,6/10/2023,Eggplant Oriental,meat,128,105.46,5214.1,credit card,June
+512,2/1/2023,Jerusalem Artichoke,dairy,472,840.49,955.29,credit card,February
+513,3/9/2023,Cheese - Parmesan Grated,beverages,402,606.19,6673.29,credit card,March
+514,5/10/2023,Onions - Green,meat,601,23,6451.54,credit card,May
+515,3/10/2023,Ham - Cooked,frozen foods,48,971.64,511.57,cash,March
+516,7/25/2023,"Napkin - Beverge, White 2 - Ply",meat,118,948.31,8416.48,mobile payment,July
+517,4/1/2023,Cranberries - Frozen,frozen foods,833,342.52,1477.38,credit card,April
+518,7/17/2023,"Stock - Veal, White",bakery,173,312.86,5084.98,debit card,July
+519,4/7/2023,"Mushrooms - Black, Dried",dairy,405,353.33,6010.06,cash,April
+520,5/14/2023,Beer - Heinekin,produce,949,541.71,1499.01,debit card,May
+521,5/2/2023,Icecream - Dstk Cml And Fdg,snacks,335,700.17,701.75,debit card,May
+522,12/20/2023,Appetizer - Southwestern,frozen foods,890,224.01,6809.88,credit card,December
+523,5/11/2023,"Mushroom - Porcini, Dry",pantry,561,378.46,2145.61,cash,May
+524,9/2/2023,"Stock - Beef, Brown",bakery,895,290.07,690.28,debit card,September
+525,3/13/2023,Spice - Peppercorn Melange,pantry,573,849.65,6654.71,cash,March
+526,9/28/2023,Otomegusa Dashi Konbu,bakery,638,112.33,5780.67,credit card,September
+527,2/23/2023,Mushroom - Morel Frozen,meat,144,47.03,7090.37,debit card,February
+528,10/25/2023,Bacardi Raspberry,beverages,488,560.75,6301.35,credit card,October
+529,3/12/2023,Brandy Cherry - Mcguinness,snacks,577,138.13,6402.39,debit card,March
+530,12/5/2023,Tomatoes - Grape,dairy,626,107.64,4756.08,debit card,December
+531,5/4/2023,Fond - Chocolate,dairy,924,160.02,9484.03,cash,May
+532,3/28/2023,Compound - Strawberry,beverages,611,275.79,3709.66,mobile payment,March
+533,10/30/2023,Vaccum Bag - 14x20,pantry,329,927.29,6278.92,mobile payment,October
+534,12/6/2023,Rice - Brown,beverages,956,204.04,334.84,debit card,December
+535,12/22/2023,Beer - Rickards Red,frozen foods,847,572,9271.2,debit card,December
+536,12/25/2023,Graham Cracker Mix,meat,736,468.48,4021.79,debit card,December
+537,10/22/2023,Oil - Margarine,frozen foods,678,441.98,7413.24,credit card,October
+538,6/30/2023,Haggis,snacks,31,913.48,2568.31,credit card,June
+539,1/8/2023,"Shrimp - 21/25, Peel And Deviened",meat,644,793.98,7776.38,mobile payment,January
+540,1/18/2023,"Soup - Campbells, Spinach Crm",bakery,738,353.26,2725.15,cash,January
+541,12/12/2023,"Potatoes - Yukon Gold, 80 Ct",dairy,204,980.44,3534.06,debit card,December
+542,9/7/2023,Parsley Italian - Fresh,dairy,897,176.53,8036.7,mobile payment,September
+543,6/21/2023,Soup - Chicken And Wild Rice,snacks,830,343.75,4333.27,mobile payment,June
+544,6/12/2023,Sprouts - Bean,pantry,668,441.18,8356.69,debit card,June
+545,4/7/2023,Cookies - Englishbay Wht,produce,493,828.59,111.16,cash,April
+546,8/24/2023,Veal - Loin,bakery,167,620.52,3269.71,credit card,August
+547,6/9/2023,Parsley - Dried,dairy,671,356.86,1926.68,debit card,June
+548,5/28/2023,"Juice - Tomato, 10 Oz",snacks,999,992.31,4745.86,mobile payment,May
+549,12/23/2023,Strawberries,dairy,654,801.07,8270.54,credit card,December
+550,6/15/2023,"Mushroom - Enoki, Dry",pantry,708,995.12,2748.87,mobile payment,June
+551,6/1/2023,Cream - 35%,produce,415,28.77,3563.92,mobile payment,June
+552,4/30/2023,"Veal - Brisket, Provimi, Bone - In",snacks,978,406.77,9677.35,debit card,April
+553,7/13/2023,"Chilli Paste, Ginger Garlic",dairy,697,887.85,5615.38,debit card,July
+554,5/14/2023,Bread - English Muffin,bakery,783,60.42,9690.34,cash,May
+555,1/18/2023,Fennel - Seeds,frozen foods,578,362.44,4939.41,debit card,January
+556,4/7/2023,Bread - English Muffin,bakery,295,709.44,4192.37,mobile payment,April
+557,4/28/2023,Otomegusa Dashi Konbu,produce,767,844.19,2278.38,credit card,April
+558,2/5/2023,Broom - Push,meat,292,307.91,7315.04,mobile payment,February
+559,12/1/2023,"Napkin - Dinner, White",meat,703,113.32,9558.78,credit card,December
+560,9/29/2023,Cheese - Roquefort Pappillon,pantry,527,481.42,5802.24,debit card,September
+561,5/22/2023,Wine - Charddonnay Errazuriz,beverages,1000,666.28,4750.82,cash,May
+562,6/22/2023,"Juice - Grapefruit, 341 Ml",dairy,18,899,8403.04,mobile payment,June
+563,5/12/2023,Wine - Pinot Noir Latour,pantry,267,653.13,2260.1,cash,May
+564,6/18/2023,"Pork - Tenderloin, Fresh",meat,495,722.1,4750.07,mobile payment,June
+565,4/28/2023,"Juice - Clam, 46 Oz",pantry,218,86.98,7126.84,mobile payment,April
+566,7/31/2023,Cheese - Goat,snacks,990,238.15,84.07,credit card,July
+567,2/2/2023,Coffee - Frthy Coffee Crisp,snacks,685,86.18,4381.9,mobile payment,February
+568,11/20/2023,Wine - Delicato Merlot,dairy,353,558.06,9912.44,cash,November
+569,4/20/2023,Salmon - Sockeye Raw,frozen foods,47,323.19,3749.41,credit card,April
+570,10/17/2023,Paper Towel Touchless,beverages,991,422.38,9229.48,mobile payment,October
+571,7/23/2023,"Rum - Cream, Amarula",snacks,799,398.7,9052.81,mobile payment,July
+572,4/4/2023,Mix - Cocktail Ice Cream,pantry,596,154.36,2364.44,mobile payment,April
+573,1/10/2023,Veal - Leg,meat,8,330.2,8272.18,cash,January
+574,3/26/2023,Rum - Mount Gay Eclipes,meat,710,884.97,3915.72,mobile payment,March
+575,8/23/2023,Syrup - Monin - Granny Smith,pantry,631,328.83,932.47,credit card,August
+576,3/20/2023,Lamb - Whole Head Off,bakery,955,685.61,5600.15,debit card,March
+577,1/31/2023,Cookies Oatmeal Raisin,pantry,211,507.77,6664.22,mobile payment,January
+578,3/28/2023,Wine - Alsace Gewurztraminer,frozen foods,279,957.65,4960.34,mobile payment,March
+579,7/15/2023,Roe - White Fish,bakery,570,813.61,7235.9,mobile payment,July
+580,6/27/2023,"Juice - Apple, 1.36l",bakery,498,105.16,7027.67,mobile payment,June
+581,5/31/2023,Cognac - Courvaisier,produce,558,866.99,4949.3,debit card,May
+582,2/10/2023,Oil - Sunflower,dairy,386,133.62,6862.26,mobile payment,February
+583,11/3/2023,Sardines,meat,988,441.57,6871.27,debit card,November
+584,5/21/2023,Pernod,dairy,812,918.46,1611.79,credit card,May
+585,12/17/2023,Wine - Lamancha Do Crianza,beverages,40,907.7,8245.41,cash,December
+586,11/20/2023,"Pasta - Tortellini, Fresh",frozen foods,406,337.12,1638.38,mobile payment,November
+587,1/30/2023,"Bread - White, Sliced",produce,848,268.91,7189.7,mobile payment,January
+588,4/15/2023,Breakfast Quesadillas,produce,732,494.34,1169.51,debit card,April
+589,2/1/2023,Crackers - Water,beverages,966,167.96,2221.54,mobile payment,February
+590,10/24/2023,Red Currants,pantry,866,586.62,4547.54,mobile payment,October
+591,8/7/2023,Sugar - Invert,pantry,101,698.53,2169.03,cash,August
+592,2/25/2023,Greens Mustard,bakery,644,792.21,8419.01,cash,February
+593,1/8/2023,Stock - Fish,snacks,810,604.2,5371.13,debit card,January
+594,11/5/2023,"Chicken - Wings, Tip Off",meat,262,465.39,7773.63,credit card,November
+595,1/21/2023,"Lemonade - Mandarin, 591 Ml",meat,551,495.33,8886.84,debit card,January
+596,7/12/2023,Island Oasis - Strawberry,bakery,557,884.65,3262.54,credit card,July
+597,3/28/2023,Mayonnaise,frozen foods,756,966.14,3071.09,cash,March
+598,4/7/2023,Beef - Short Loin,beverages,879,270.03,8931.26,credit card,April
+599,1/29/2023,Dc Hikiage Hira Huba,dairy,354,435.97,9269.78,debit card,January
+600,3/2/2023,Leeks - Large,pantry,70,104.93,5193.43,mobile payment,March
+601,6/2/2023,Foam Tray S2,meat,333,705.83,669.28,cash,June
+602,8/19/2023,Orange Roughy 4/6 Oz,bakery,623,608.16,5383.75,mobile payment,August
+603,11/29/2023,Sponge Cake Mix - Vanilla,frozen foods,681,210.71,9716.43,mobile payment,November
+604,11/17/2023,Cup - 8oz Coffee Perforated,dairy,813,353.96,4241.35,cash,November
+605,6/21/2023,"Chicken - Leg, Fresh",bakery,641,792.32,3998.25,cash,June
+606,11/7/2023,Rum - Mount Gay Eclipes,frozen foods,821,709.39,3201.14,mobile payment,November
+607,2/24/2023,Coffee - Dark Roast,beverages,389,265.56,1534.91,credit card,February
+608,3/8/2023,"Vermacelli - Sprinkles, Assorted",pantry,814,764.06,3078.33,cash,March
+609,3/23/2023,Mayonnaise - Individual Pkg,meat,348,274.61,8916.34,debit card,March
+610,11/8/2023,"Orange - Canned, Mandarin",beverages,499,157.33,730.72,mobile payment,November
+611,9/15/2023,"Trout - Hot Smkd, Dbl Fillet",bakery,10,722.78,220.48,debit card,September
+612,2/8/2023,"Thyme - Lemon, Fresh",dairy,435,115.73,1705.6,cash,February
+613,8/1/2023,Ginger - Fresh,beverages,251,732.84,2730.49,mobile payment,August
+614,4/12/2023,Coffee Swiss Choc Almond,frozen foods,101,963.74,6921.86,mobile payment,April
+615,7/13/2023,Macaroons - Homestyle Two Bit,frozen foods,679,786.83,2718.57,cash,July
+616,11/3/2023,"Lemonade - Kiwi, 591 Ml",bakery,437,44.97,6734.47,mobile payment,November
+617,11/5/2023,"Soda Water - Club Soda, 355 Ml",pantry,754,907.81,5730.7,cash,November
+618,4/12/2023,Gherkin - Sour,dairy,9,691.49,388.83,credit card,April
+619,3/30/2023,Tomatoes - Roma,frozen foods,548,379.49,6697.26,mobile payment,March
+620,6/29/2023,Banana - Leaves,produce,144,268.84,8191.05,mobile payment,June
+621,9/28/2023,Napkin White,dairy,980,77.62,8865.5,debit card,September
+622,6/9/2023,Rice - Jasmine Sented,snacks,303,145.97,6434.63,mobile payment,June
+623,8/8/2023,Cinnamon Rolls,frozen foods,859,405.98,4028.85,mobile payment,August
+624,5/28/2023,Pie Filling - Apple,meat,462,334.48,4631.11,debit card,May
+625,1/14/2023,"Chocolate - Milk, Callets",meat,491,250.19,5482.67,credit card,January
+626,4/18/2023,Foil - Round Foil,dairy,322,875.28,7442.29,credit card,April
+627,7/14/2023,Lamb - Whole Head Off,frozen foods,790,509.3,2311.37,credit card,July
+628,2/11/2023,Buffalo - Striploin,dairy,235,397.85,1904.64,debit card,February
+629,6/12/2023,Pasta - Ravioli,pantry,891,855.05,6350.39,cash,June
+630,8/28/2023,"Fish - Scallops, Cold Smoked",beverages,51,923.14,314.15,credit card,August
+631,6/4/2023,Wine - Acient Coast Caberne,produce,915,390.27,4272.79,mobile payment,June
+632,9/11/2023,Grenadine,dairy,916,732.98,7323.65,debit card,September
+633,3/17/2023,"Shrimp, Dried, Small / Lb",beverages,866,690.1,7172.31,debit card,March
+634,8/3/2023,Coffee - Almond Amaretto,frozen foods,313,325.09,7452.59,credit card,August
+635,11/12/2023,Oil - Pumpkinseed,dairy,586,304.68,3802.3,cash,November
+636,3/21/2023,Pepper - Yellow Bell,beverages,895,679.73,5918.57,cash,March
+637,12/28/2023,"Napkin - Dinner, White",frozen foods,731,545.84,1018.36,credit card,December
+638,9/22/2023,"Water - Mineral, Natural",pantry,175,8.97,6418.46,cash,September
+639,8/18/2023,Cake - Bande Of Fruit,beverages,129,967.08,4759.99,cash,August
+640,1/11/2023,Lamb Tenderloin Nz Fr,snacks,609,998.78,8343.85,mobile payment,January
+641,6/17/2023,Rhubarb,dairy,164,565.59,3146.34,credit card,June
+642,10/31/2023,"Loaf Pan - 2 Lb, Foil",frozen foods,672,698.32,2175.61,debit card,October
+643,9/24/2023,Veal - Eye Of Round,produce,975,10.28,9623.29,mobile payment,September
+644,6/5/2023,Bacardi Breezer - Strawberry,pantry,825,734.9,3486.81,credit card,June
+645,10/6/2023,Soho Lychee Liqueur,produce,195,633.14,7587.32,cash,October
+646,5/13/2023,Bread - Corn Muffaleta Onion,bakery,493,796.25,196.23,cash,May
+647,8/5/2023,Mace,bakery,356,370.79,5544.74,mobile payment,August
+648,9/23/2023,Lighter - Bbq,frozen foods,23,258.65,889.03,credit card,September
+649,12/8/2023,Spring Roll Wrappers,dairy,46,382.56,9750.47,debit card,December
+650,7/27/2023,Pastry - Apple Muffins - Mini,dairy,494,557.87,8578.84,mobile payment,July
+651,9/9/2023,Beef - Ox Tongue,dairy,998,360.38,9386.86,cash,September
+652,3/31/2023,Wine - Crozes Hermitage E.,snacks,901,32.99,9099.37,debit card,March
+653,7/1/2023,Chocolate - Dark Callets,snacks,833,5.48,1624.96,mobile payment,July
+654,7/2/2023,"Turkey - Breast, Smoked",produce,805,490.41,1133.12,mobile payment,July
+655,6/1/2023,Tilapia - Fillets,produce,590,518.77,4980.53,cash,June
+656,12/17/2023,Chocolate Eclairs,dairy,287,241.45,3485.6,mobile payment,December
+657,2/22/2023,Tomatoes - Roma,meat,450,329.37,2149.75,mobile payment,February
+658,1/26/2023,Coffee - Irish Cream,produce,102,133.27,4572.63,mobile payment,January
+659,6/22/2023,"Zucchini - Mini, Green",snacks,16,52.04,343.76,mobile payment,June
+660,5/2/2023,Lobster - Tail 6 Oz,pantry,572,786.72,675.73,debit card,May
+661,12/11/2023,Swordfish Loin Portions,meat,426,926.98,3785.24,cash,December
+662,6/19/2023,Beer - Sleeman Fine Porter,pantry,472,785.4,7325.8,debit card,June
+663,2/7/2023,Oil - Pumpkinseed,dairy,949,883.23,8787.43,cash,February
+664,2/24/2023,"Bread - Roll, Canadian Dinner",dairy,899,578.05,6431.3,cash,February
+665,7/8/2023,Juice - Apple 284ml,frozen foods,76,759.76,1169.57,credit card,July
+666,7/8/2023,Sobe - Liz Blizz,frozen foods,584,99.79,9107.27,debit card,July
+667,11/7/2023,"Bread - Roll, Calabrese",snacks,593,863.16,7564.44,debit card,November
+668,5/30/2023,"Wine - Magnotta, Merlot Sr Vqa",frozen foods,412,588.01,4405.38,cash,May
+669,5/8/2023,"Seedlings - Buckwheat, Organic",frozen foods,625,982.28,6399.97,credit card,May
+670,9/19/2023,"Rum - Coconut, Malibu",beverages,8,270.63,4285.22,credit card,September
+671,8/14/2023,Muffin Batt - Choc Chk,dairy,683,477.41,8475.65,debit card,August
+672,9/23/2023,"Roe - Lump Fish, Black",bakery,455,583.94,1971.84,mobile payment,September
+673,12/6/2023,Melon - Cantaloupe,dairy,983,794.27,6470.22,cash,December
+674,9/11/2023,Cookie Dough - Oatmeal Rasin,beverages,813,670.19,134.33,debit card,September
+675,8/30/2023,Bar Mix - Lime,produce,399,497.73,1433.17,debit card,August
+676,1/23/2023,Cut Wakame - Hanawakaba,produce,549,141.81,9292.98,mobile payment,January
+677,4/19/2023,"Arctic Char - Fresh, Whole",frozen foods,508,858.73,2590.76,cash,April
+678,3/1/2023,Chickensplit Half,pantry,878,958.98,6891.59,cash,March
+679,9/11/2023,Lettuce - Treviso,beverages,234,102.95,4507.45,debit card,September
+680,2/7/2023,Teriyaki Sauce,dairy,96,606.49,5855.19,cash,February
+681,4/27/2023,Hog / Sausage Casing - Pork,dairy,858,436.41,9099.69,debit card,April
+682,6/12/2023,"Cheese - Mozzarella, Buffalo",meat,64,698.28,1023.06,debit card,June
+683,7/5/2023,"Bread - Multigrain, Loaf",produce,832,973.72,4752.87,debit card,July
+684,1/20/2023,Muffin Mix - Morning Glory,dairy,806,928.34,9180.37,debit card,January
+685,1/19/2023,"Water, Tap",beverages,68,907.01,9475.16,mobile payment,January
+686,9/30/2023,Herb Du Provence - Primerba,pantry,624,332.69,8753.19,cash,September
+687,1/22/2023,"Coconut - Shredded, Sweet",bakery,128,210.65,2300.88,debit card,January
+688,12/26/2023,"Pasta - Linguini, Dry",bakery,263,928.75,348.91,cash,December
+689,11/11/2023,Syrup - Monin - Passion Fruit,dairy,767,327.76,6527.3,mobile payment,November
+690,9/19/2023,Milk - Homo,produce,728,263.02,185.54,credit card,September
+691,9/14/2023,Soup - Campbells Mushroom,dairy,391,144.2,2337.75,cash,September
+692,4/6/2023,"Salsify, Organic",beverages,727,94.69,1395.71,credit card,April
+693,10/25/2023,Bread Cranberry Foccacia,frozen foods,209,764.61,3503.96,debit card,October
+694,11/15/2023,Wine - Sauvignon Blanc,frozen foods,580,779.62,268.12,cash,November
+695,5/28/2023,Pail With Metal Handle 16l White,meat,680,253.76,8607.49,cash,May
+696,5/27/2023,Energy - Boo - Koo,dairy,726,835.8,7907.91,debit card,May
+697,1/28/2023,"Pasta - Fettuccine, Egg, Fresh",produce,622,902.5,9739.3,credit card,January
+698,3/26/2023,"Sauce - Soya, Dark",meat,367,494.32,3645.68,cash,March
+699,4/11/2023,"Nut - Hazelnut, Whole",frozen foods,34,394.86,1047.75,debit card,April
+700,5/8/2023,Parsley Italian - Fresh,frozen foods,261,420.71,7826.26,cash,May
+701,9/27/2023,Pumpkin - Seed,snacks,371,882.13,7696.35,credit card,September
+702,6/21/2023,Beef Cheek Fresh,frozen foods,917,974.16,1568.47,credit card,June
+703,1/23/2023,Bag - Clear 7 Lb,pantry,227,325.6,7390.42,cash,January
+704,12/18/2023,"Mushroom - Enoki, Dry",dairy,581,980.99,7746.11,credit card,December
+705,1/30/2023,"Nut - Almond, Blanched, Sliced",frozen foods,886,894.26,5393.51,credit card,January
+706,8/17/2023,Browning Caramel Glace,produce,96,623.39,7337.72,mobile payment,August
+707,1/24/2023,Parsnip,bakery,959,573.81,7233.7,debit card,January
+708,12/25/2023,Ginger - Crystalized,meat,583,90.62,2093.03,mobile payment,December
+709,6/1/2023,Lobak,meat,312,134.39,9438.51,debit card,June
+710,12/20/2023,Pear - Asian,dairy,625,761.01,3918.84,credit card,December
+711,10/14/2023,Cheese - Shred Cheddar / Mozza,beverages,747,118.24,7737.65,cash,October
+712,3/31/2023,"Split Peas - Green, Dry",produce,292,991.33,3702.04,mobile payment,March
+713,11/24/2023,Calaloo,dairy,687,140.32,1923.11,cash,November
+714,12/11/2023,Cheese - Brick With Onion,snacks,619,80.96,762.81,debit card,December
+715,4/27/2023,Beef - Tender Tips,pantry,323,255.4,645.33,credit card,April
+716,2/17/2023,"Tomatoes - Vine Ripe, Red",produce,154,446.39,9020.09,debit card,February
+717,8/21/2023,Bread - Bistro White,produce,609,115.2,8427.69,credit card,August
+718,5/10/2023,Wine - Rosso Toscano Igt,dairy,855,903.25,1267.04,cash,May
+719,1/16/2023,Syrup - Monin - Granny Smith,beverages,397,706.14,4198.16,credit card,January
+720,3/15/2023,Squid - U - 10 Thailand,snacks,646,734.26,9786.89,credit card,March
+721,11/9/2023,Flower - Carnations,dairy,61,233.87,3195.62,credit card,November
+722,4/15/2023,Island Oasis - Pina Colada,pantry,653,280.29,993.26,cash,April
+723,7/2/2023,Shrimp - 31/40,pantry,198,889.59,9564.73,credit card,July
+724,6/1/2023,Galliano,meat,932,314.15,523.49,mobile payment,June
+725,5/26/2023,Vector Energy Bar,meat,574,855.61,8306.45,cash,May
+726,11/17/2023,"Soup - Knorr, Country Bean",produce,570,701.93,8159.01,debit card,November
+727,11/21/2023,Chevril,bakery,201,245.62,2379.37,debit card,November
+728,8/3/2023,Cake - Miini Cheesecake Cherry,pantry,357,990.33,148.04,credit card,August
+729,4/24/2023,Pasta - Canelloni,produce,777,677.71,5593.43,cash,April
+730,11/14/2023,Walkers Special Old Whiskey,beverages,353,120.84,1584.3,cash,November
+731,9/29/2023,Cod - Fillets,dairy,823,189.76,9502.98,cash,September
+732,8/25/2023,Beans - Kidney White,beverages,816,850.01,1437.29,cash,August
+733,12/15/2023,"Mushrooms - Black, Dried",produce,832,336.73,9310.66,cash,December
+734,12/30/2023,Chips - Potato Jalapeno,snacks,740,974.28,6243.77,cash,December
+735,2/24/2023,Pails With Lids,frozen foods,377,215.64,1054.71,mobile payment,February
+736,6/3/2023,Chevril,dairy,17,924.56,5336.22,debit card,June
+737,8/31/2023,"Cheese - Mozzarella, Buffalo",frozen foods,487,507.6,4330.04,credit card,August
+738,4/6/2023,Water - Evian 355 Ml,dairy,251,937.79,8269.94,cash,April
+739,6/20/2023,"Juice - Tomato, 10 Oz",dairy,627,185.47,2419.25,debit card,June
+740,7/1/2023,"Wine - White, Mosel Gold",pantry,864,885.8,1988.84,mobile payment,July
+741,10/6/2023,Soy Protein,meat,994,982.01,4747.41,mobile payment,October
+742,10/23/2023,"Soup - Beef, Base Mix",dairy,413,133.95,4196.03,mobile payment,October
+743,6/16/2023,Chinese Foods - Plain Fried Rice,beverages,659,226.79,520.3,credit card,June
+744,2/4/2023,Wine - Balbach Riverside,produce,65,894.09,5758.21,credit card,February
+745,4/16/2023,"Pork - Bacon, Sliced",dairy,193,667.63,972.96,credit card,April
+746,6/30/2023,Mousse - Passion Fruit,produce,718,210.79,7137.02,credit card,June
+747,5/6/2023,Foam Tray S2,dairy,396,27.07,4384.98,mobile payment,May
+748,3/19/2023,"Chilli Paste, Hot Sambal Oelek",dairy,297,252.4,7197.51,cash,March
+749,12/24/2023,Potatoes - Idaho 80 Count,meat,973,659.62,321.73,debit card,December
+750,5/21/2023,Appetizer - Tarragon Chicken,produce,289,235.58,8307.22,mobile payment,May
+751,7/18/2023,Squash - Acorn,frozen foods,657,826.1,7615.47,mobile payment,July
+752,6/19/2023,Bread - Mini Hamburger Bun,frozen foods,509,613.65,9872.98,debit card,June
+753,5/25/2023,Tofu - Firm,meat,821,106.21,9450.66,mobile payment,May
+754,8/3/2023,"Shrimp - Baby, Warm Water",frozen foods,215,957.29,7687.57,mobile payment,August
+755,5/5/2023,Nantucket Cranberry Juice,dairy,257,139.01,2840.91,credit card,May
+756,9/14/2023,Sloe Gin - Mcguinness,beverages,779,435.31,1153.18,debit card,September
+757,11/7/2023,Pasta - Fusili Tri - Coloured,snacks,527,379.53,3688.31,credit card,November
+758,5/18/2023,Chinese Foods - Cantonese,frozen foods,768,618.7,6347.07,mobile payment,May
+759,4/27/2023,Yeast Dry - Fermipan,produce,40,119.77,845.85,debit card,April
+760,7/25/2023,Cookies - Englishbay Chochip,dairy,545,116.05,9077.67,credit card,July
+761,12/22/2023,Potatoes - Mini Red,bakery,205,650.42,9125.06,mobile payment,December
+762,8/24/2023,Gatorade - Xfactor Berry,frozen foods,931,801.95,1385.35,cash,August
+763,3/8/2023,Lambcasing,produce,255,802.44,3654.1,mobile payment,March
+764,5/9/2023,Fish - Bones,meat,697,499.8,9516.05,debit card,May
+765,11/7/2023,Bread - Crusty Italian Poly,dairy,127,445.42,4228.14,mobile payment,November
+766,12/8/2023,"Chicken - Leg, Fresh",pantry,106,323.35,608.71,cash,December
+767,4/1/2023,Puff Pastry - Slab,snacks,312,471.08,8767.3,debit card,April
+768,12/27/2023,Jam - Apricot,pantry,681,337.72,8272.44,debit card,December
+769,12/8/2023,Port - 74 Brights,snacks,438,822.92,2013.48,cash,December
+770,11/8/2023,Pork - Hock And Feet Attached,meat,300,990.77,9105.5,debit card,November
+771,8/8/2023,Cookie - Oreo 100x2,produce,276,941.35,429.44,mobile payment,August
+772,2/17/2023,Pastry - Baked Cinnamon Stick,pantry,618,577.68,6555.58,mobile payment,February
+773,10/8/2023,Apples - Sliced / Wedge,snacks,612,660.76,2120.18,mobile payment,October
+774,3/12/2023,"Bread - Dark Rye, Loaf",meat,431,941.7,4862.53,debit card,March
+775,1/6/2023,"Pasta - Linguini, Dry",frozen foods,541,359.33,1805.06,mobile payment,January
+776,6/27/2023,Banana - Leaves,bakery,735,794.71,1447.53,credit card,June
+777,5/24/2023,"Nut - Almond, Blanched, Ground",beverages,4,600.3,7635.56,credit card,May
+778,11/3/2023,Beans - Fava Fresh,beverages,132,688.02,8889.37,cash,November
+779,8/7/2023,Tamarillo,snacks,37,40.07,6955.85,mobile payment,August
+780,2/25/2023,Mahi Mahi,dairy,865,104.58,7716.48,mobile payment,February
+781,1/15/2023,Muffin Hinge 117n,pantry,717,984.45,6321.19,credit card,January
+782,2/6/2023,Remy Red,snacks,235,255.81,3677.19,cash,February
+783,6/21/2023,Turnip - Mini,snacks,460,43.76,4985.29,mobile payment,June
+784,6/23/2023,Bread Sour Rolls,dairy,471,898.22,3516.84,mobile payment,June
+785,5/8/2023,Pear - Asian,snacks,138,407.22,41.64,credit card,May
+786,11/17/2023,Compound - Pear,pantry,831,439.77,2029.77,credit card,November
+787,11/23/2023,Puree - Blackcurrant,bakery,388,542.95,2701.27,mobile payment,November
+788,5/16/2023,Parsley Italian - Fresh,meat,212,280.81,8582.71,cash,May
+789,4/15/2023,"Nut - Pine Nuts, Whole",pantry,494,689.12,1665.49,debit card,April
+790,5/27/2023,Sea Bass - Whole,snacks,117,603.87,471.38,debit card,May
+791,6/18/2023,"Soup - Clam Chowder, Dry Mix",meat,720,30.47,6081.83,credit card,June
+792,5/1/2023,Bread - Pain Au Liat X12,frozen foods,719,739.2,611.76,mobile payment,May
+793,9/23/2023,Wine - Penfolds Koonuga Hill,bakery,885,892.3,9639.48,credit card,September
+794,4/12/2023,Flax Seed,beverages,598,194.47,5218.24,mobile payment,April
+795,9/8/2023,"Pasta - Linguini, Dry",produce,419,901.2,5212.13,mobile payment,September
+796,4/11/2023,Mussels - Cultivated,beverages,328,434.78,959.52,cash,April
+797,5/15/2023,Dried Peach,pantry,683,901.87,8220.56,debit card,May
+798,12/27/2023,English Muffin,pantry,480,885.98,205.96,debit card,December
+799,11/4/2023,Beef - Shank,beverages,871,229.68,5915.69,credit card,November
+800,11/14/2023,Russian Prince,frozen foods,836,123.47,6401.71,cash,November
+801,3/14/2023,Cleaner - Lime Away,dairy,280,607.49,3414.24,mobile payment,March
+802,2/15/2023,Wine - Dubouef Macon - Villages,meat,948,945.95,9147.35,mobile payment,February
+803,3/24/2023,Veal - Heart,produce,383,221.14,1370.3,debit card,March
+804,6/30/2023,Cookies - Englishbay Chochip,dairy,199,953.11,1023.74,mobile payment,June
+805,10/23/2023,Cattail Hearts,beverages,407,600.75,345.79,cash,October
+806,1/18/2023,Cookies - Fortune,snacks,339,949.75,371.56,mobile payment,January
+807,7/10/2023,Wine - Cave Springs Dry Riesling,bakery,904,207.18,6526.87,mobile payment,July
+808,3/8/2023,Cheese - Gouda,beverages,501,399.39,2133.36,cash,March
+809,5/19/2023,Squid - Tubes / Tenticles 10/20,produce,129,586.66,5086.49,mobile payment,May
+810,12/9/2023,Icecream - Dstk Cml And Fdg,bakery,737,218.97,1112.86,cash,December
+811,6/1/2023,Cardamon Ground,beverages,427,25.39,6419.49,debit card,June
+812,2/19/2023,Spinach - Packaged,beverages,960,937.05,5095.04,debit card,February
+813,1/25/2023,Cheese - Le Cheve Noir,dairy,729,907.98,3806.78,mobile payment,January
+814,3/31/2023,Soup - Verve - Chipotle Chicken,frozen foods,240,698.02,6352.92,cash,March
+815,10/27/2023,Kiwi,pantry,212,158.54,3337.72,mobile payment,October
+816,7/8/2023,Cheese - Cheddarsliced,dairy,61,561.94,8728.45,cash,July
+817,10/7/2023,Long Island Ice Tea,pantry,962,775.93,4582.91,mobile payment,October
+818,6/9/2023,Mix - Cappucino Cocktail,frozen foods,33,209.46,111.81,cash,June
+819,6/22/2023,Yoplait Drink,beverages,12,879.77,3396.04,debit card,June
+820,10/14/2023,Versatainer Nc - 888,bakery,930,108.99,3706.94,cash,October
+821,9/15/2023,Mangostein,pantry,848,171.96,6673.89,cash,September
+822,7/19/2023,Loquat,meat,425,423.94,3610.83,credit card,July
+823,2/11/2023,Beer - Blue,produce,50,617.72,3228.11,cash,February
+824,5/30/2023,Sardines,snacks,863,575.32,4340.08,mobile payment,May
+825,3/2/2023,Salmon - Sockeye Raw,beverages,290,611.14,3804.2,debit card,March
+826,6/12/2023,Green Scrubbie Pad H.duty,produce,463,445.41,1986.45,mobile payment,June
+827,10/7/2023,"Rum - White, Gg White",pantry,667,533.4,3090.09,mobile payment,October
+828,2/7/2023,Shiratamako - Rice Flour,bakery,560,9.97,8224.42,cash,February
+829,1/18/2023,Flour Dark Rye,meat,794,633,4042.8,mobile payment,January
+830,7/23/2023,Wine - German Riesling,bakery,398,215.57,5545.43,credit card,July
+831,10/13/2023,Table Cloth 62x114 White,meat,872,652.3,5930.89,mobile payment,October
+832,5/31/2023,Plastic Arrow Stir Stick,frozen foods,39,530.16,4302.82,debit card,May
+833,4/16/2023,"Wine - White, Riesling, Semi - Dry",dairy,640,308.87,8707.35,debit card,April
+834,5/15/2023,Bar - Sweet And Salty Chocolate,beverages,604,517.03,9659.5,mobile payment,May
+835,3/24/2023,V8 Splash Strawberry Banana,snacks,579,945.77,8815.55,debit card,March
+836,6/7/2023,Veal - Kidney,dairy,203,884.18,8533.76,cash,June
+837,5/11/2023,"Cheese - Cheddar, Mild",produce,407,380.95,4035.18,mobile payment,May
+838,9/16/2023,Lettuce - Lambs Mash,dairy,15,591.43,7730.53,cash,September
+839,2/20/2023,Rabbit - Frozen,bakery,227,242.19,7253.67,debit card,February
+840,8/4/2023,"Beef - Roasted, Cooked",pantry,381,345.41,7659.97,credit card,August
+841,7/14/2023,Skirt - 29 Foot,pantry,548,168.34,6998.51,debit card,July
+842,10/20/2023,Instant Coffee,snacks,421,856.97,7701.01,mobile payment,October
+843,2/24/2023,Grenadillo,bakery,364,513.7,1114.83,credit card,February
+844,3/23/2023,"Split Peas - Yellow, Dry",pantry,651,137.3,2651.38,cash,March
+845,6/6/2023,Mint - Fresh,bakery,583,818.33,8954.66,debit card,June
+846,6/20/2023,"Cheese - Mozzarella, Buffalo",produce,285,364.58,5344.7,mobile payment,June
+847,5/27/2023,Turkey - Ground. Lean,frozen foods,531,597.82,5688.69,debit card,May
+848,4/5/2023,Gatorade - Orange,dairy,887,245.47,1808.11,cash,April
+849,6/8/2023,Passion Fruit,meat,787,312.33,9808.39,credit card,June
+850,1/15/2023,Duck - Fat,beverages,129,968.57,4617.67,mobile payment,January
+851,7/21/2023,"Trout - Hot Smkd, Dbl Fillet",bakery,229,476.99,1318.47,mobile payment,July
+852,5/21/2023,Assorted Desserts,meat,973,841.17,7458,debit card,May
+853,2/7/2023,"Juice - Grape, White",pantry,640,888.94,8945.19,debit card,February
+854,8/3/2023,Oil - Hazelnut,pantry,390,197.62,9451.67,credit card,August
+855,2/1/2023,Coffee - French Vanilla Frothy,produce,771,331.58,8189.79,mobile payment,February
+856,11/18/2023,Arizona - Plum Green Tea,pantry,444,458.54,644.21,mobile payment,November
+857,12/26/2023,Celery,bakery,571,532.43,7919.45,mobile payment,December
+858,8/31/2023,Egg Patty Fried,pantry,783,396.48,7210.15,cash,August
+859,8/5/2023,"Stock - Beef, White",dairy,725,398.16,658.35,cash,August
+860,7/26/2023,Cornish Hen,pantry,425,821.59,2670.17,debit card,July
+861,10/17/2023,Bacardi Limon,pantry,688,271.92,4740.47,debit card,October
+862,4/6/2023,Venison - Liver,dairy,357,516.21,1261.39,debit card,April
+863,9/20/2023,"Soup - Knorr, Ministrone",beverages,726,850.54,8735.83,credit card,September
+864,7/28/2023,"Olives - Green, Pitted",produce,805,46.24,7842.29,debit card,July
+865,9/19/2023,Appetizer - Crab And Brie,pantry,488,299.12,671.94,credit card,September
+866,6/7/2023,Vinegar - Rice,meat,527,532.18,5275.9,mobile payment,June
+867,11/5/2023,Browning Caramel Glace,meat,38,96.84,7993.6,debit card,November
+868,10/11/2023,Longos - Chicken Curried,frozen foods,434,797.34,8724.94,credit card,October
+869,3/3/2023,Syrup - Kahlua Chocolate,dairy,767,875.9,4111.37,credit card,March
+870,5/2/2023,"Salmon - Whole, 4 - 6 Pounds",bakery,573,707.69,5639.29,debit card,May
+871,12/30/2023,"Seedlings - Buckwheat, Organic",bakery,443,140.41,9202.74,mobile payment,December
+872,9/7/2023,Mushroom - King Eryingii,pantry,782,597.63,2692.89,mobile payment,September
+873,1/3/2023,"Syrup - Monin, Swiss Choclate",produce,101,826.67,6268.72,cash,January
+874,9/14/2023,"Crab - Blue, Frozen",bakery,33,159.72,6485.15,debit card,September
+875,8/14/2023,"Beans - Kidney, Red Dry",produce,406,112.17,7916.82,debit card,August
+876,3/30/2023,Venison - Striploin,dairy,476,240.88,8650.77,credit card,March
+877,2/28/2023,Avocado,meat,454,709.2,2119.04,mobile payment,February
+878,7/22/2023,"Rosemary - Primerba, Paste",frozen foods,39,234.78,5924.49,cash,July
+879,12/15/2023,Tea - Vanilla Chai,pantry,212,821.46,1797.44,cash,December
+880,5/18/2023,Oranges,produce,431,241.4,5034.87,credit card,May
+881,7/10/2023,Wine - Rosso Del Veronese Igt,produce,569,225.87,6489.31,cash,July
+882,1/31/2023,Bagel - Whole White Sesame,beverages,711,824.73,1162.76,credit card,January
+883,4/28/2023,Pork Loin Cutlets,bakery,911,120.05,9242.79,credit card,April
+884,12/27/2023,"Wine - Niagara,vqa Reisling",pantry,901,747.64,6960.82,credit card,December
+885,4/26/2023,Momiji Oroshi Chili Sauce,beverages,435,745.68,4685.37,mobile payment,April
+886,10/12/2023,"Veal - Round, Eye Of",snacks,690,585.25,7899.51,cash,October
+887,3/9/2023,Beef - Top Butt,beverages,180,542.63,3348.48,mobile payment,March
+888,5/1/2023,"Rum - Cream, Amarula",meat,64,157.03,686.78,debit card,May
+889,2/6/2023,Wasabi Powder,dairy,330,772.64,8639.28,credit card,February
+890,7/20/2023,Miso - Soy Bean Paste,pantry,687,838.29,790.53,debit card,July
+891,9/28/2023,Momiji Oroshi Chili Sauce,produce,207,629.28,4336.67,debit card,September
+892,1/30/2023,Lettuce - Curly Endive,meat,20,689.84,5143.64,cash,January
+893,9/27/2023,"Potatoes - Yukon Gold, 80 Ct",pantry,759,66.61,681.74,credit card,September
+894,7/1/2023,Muffin - Zero Transfat,beverages,375,516.18,3524.66,cash,July
+895,8/12/2023,Bread - Italian Sesame Poly,produce,280,150.87,6784.86,debit card,August
+896,6/2/2023,Turkey Tenderloin Frozen,bakery,133,84.63,6634.48,cash,June
+897,9/16/2023,Puree - Raspberry,meat,486,950.27,5018.23,debit card,September
+898,5/9/2023,Tea - Apple Green Tea,bakery,843,387.77,2110.76,debit card,May
+899,3/1/2023,Cups 10oz Trans,meat,278,627.49,1755.48,credit card,March
+900,12/15/2023,Bag - Regular Kraft 20 Lb,pantry,55,116.58,5080.55,debit card,December
+901,12/12/2023,"Pepper - Black, Crushed",produce,615,151.92,8114.32,credit card,December
+902,3/13/2023,Longos - Assorted Sandwich,meat,103,233.03,9292.17,cash,March
+903,4/28/2023,Dc Hikiage Hira Huba,beverages,820,554.8,8267.52,cash,April
+904,7/13/2023,Oil - Macadamia,beverages,736,263.16,8067.9,credit card,July
+905,7/12/2023,English Muffin,pantry,290,608.35,5267.51,mobile payment,July
+906,11/6/2023,"Olives - Black, Pitted",bakery,689,58.75,9083.51,cash,November
+907,11/18/2023,Beans - Kidney White,bakery,632,927.7,2435.37,mobile payment,November
+908,11/15/2023,Rice - Sushi,pantry,466,572.44,75.91,debit card,November
+909,3/21/2023,Ecolab - Hobart Washarm End Cap,frozen foods,163,651.65,6352.71,mobile payment,March
+910,7/14/2023,Calypso - Strawberry Lemonade,dairy,927,316.97,5154.72,debit card,July
+911,5/28/2023,Longos - Grilled Salmon With Bbq,dairy,613,231.56,9591.69,mobile payment,May
+912,1/12/2023,Rice - Sushi,beverages,104,339.9,8193.73,credit card,January
+913,3/15/2023,Steam Pan Full Lid,pantry,484,249.26,7315.49,mobile payment,March
+914,10/12/2023,Nantucket Apple Juice,pantry,80,527.72,6724.67,credit card,October
+915,5/7/2023,Potatoes - Mini Red,pantry,92,808.55,883.94,credit card,May
+916,9/1/2023,Yoplait - Strawbrasp Peac,frozen foods,631,461.09,1014.98,debit card,September
+917,9/17/2023,Beer - Camerons Cream Ale,beverages,22,308.12,2171.31,debit card,September
+918,5/12/2023,Cake - Lemon Chiffon,meat,925,43.26,1490.19,credit card,May
+919,3/9/2023,Chicken - Soup Base,dairy,19,694.61,9633.64,mobile payment,March
+920,6/27/2023,"Pork - Butt, Boneless",dairy,100,727.36,7414.83,debit card,June
+921,7/21/2023,Shrimp - 100 / 200 Cold Water,dairy,557,129.99,690.18,credit card,July
+922,7/12/2023,Cheese - Cottage Cheese,meat,562,176.03,3930.95,credit card,July
+923,2/19/2023,"Trout - Hot Smkd, Dbl Fillet",pantry,21,356.24,758.5,debit card,February
+924,6/1/2023,Oil - Hazelnut,dairy,467,798.83,3417.11,credit card,June
+925,8/30/2023,Whmis Spray Bottle Graduated,pantry,594,970.55,9772.55,cash,August
+926,2/2/2023,Pepperoni Slices,beverages,794,956.69,1324.86,debit card,February
+927,2/21/2023,"Juice - V8, Tomato",meat,60,427.24,6182.76,mobile payment,February
+928,11/6/2023,Tea - Camomele,beverages,521,743.28,3899.64,mobile payment,November
+929,8/3/2023,Beer - Camerons Auburn,produce,882,346.61,5450.63,cash,August
+930,7/17/2023,Yokaline,frozen foods,824,708.84,277.92,cash,July
+931,7/17/2023,Kellogs All Bran Bars,bakery,881,615.31,4016.81,debit card,July
+932,8/27/2023,Pork Casing,beverages,230,611.78,1823.77,debit card,August
+933,6/6/2023,Bread - Petit Baguette,pantry,622,804.93,3172.42,debit card,June
+934,12/24/2023,"Juice - Orange, 341 Ml",produce,893,379.61,4223.83,mobile payment,December
+935,4/1/2023,Milk - 2% 250 Ml,meat,623,634.78,5045.43,mobile payment,April
+936,12/11/2023,Muffin Mix - Raisin Bran,beverages,989,572.09,6460.46,mobile payment,December
+937,11/29/2023,Melon - Cantaloupe,bakery,437,225.8,2832.57,cash,November
+938,12/4/2023,Honey - Lavender,beverages,941,75.26,2185.59,mobile payment,December
+939,7/31/2023,Nantucket Orange Juice,bakery,915,970.93,959.38,cash,July
+940,10/21/2023,"Rice Pilaf, Dry,package",pantry,625,184.27,6930.22,debit card,October
+941,9/24/2023,Rye Special Old,dairy,775,151.56,7757.04,mobile payment,September
+942,8/24/2023,Wood Chips - Regular,beverages,818,777.97,4766.77,mobile payment,August
+943,1/27/2023,Table Cloth 90x90 White,bakery,592,52.4,4552.29,credit card,January
+944,8/14/2023,Garbage Bags - Clear,meat,581,489.05,2398.15,cash,August
+945,8/7/2023,Cabbage - Savoy,pantry,30,679.3,9038.84,debit card,August
+946,4/30/2023,"Bread - Roll, Canadian Dinner",produce,979,61.24,8655.36,credit card,April
+947,4/1/2023,"Shrimp - 16/20, Peeled Deviened",pantry,177,999.54,9602.5,debit card,April
+948,5/10/2023,Seabream Whole Farmed,frozen foods,224,774.59,6442.28,cash,May
+949,12/1/2023,Nougat - Paste / Cream,meat,822,565.21,3039.03,mobile payment,December
+950,2/8/2023,Broom - Push,meat,855,50.48,6398.67,cash,February
+951,1/15/2023,Ecolab - Hobart Upr Prewash Arm,meat,485,168.35,8588.86,cash,January
+952,7/22/2023,Wine - Alicanca Vinho Verde,dairy,402,131.42,9920.13,credit card,July
+953,7/31/2023,"Beef - Rib Roast, Capless",snacks,805,503.45,1873.84,credit card,July
+954,4/12/2023,Beets - Pickled,meat,394,2.53,9337.69,debit card,April
+955,4/26/2023,Banana - Leaves,bakery,993,205.26,4243.12,credit card,April
+956,10/25/2023,Coffee - Hazelnut Cream,bakery,783,336.08,6643.61,mobile payment,October
+957,3/16/2023,Appetizer - Southwestern,snacks,838,785.79,9517.88,debit card,March
+958,1/19/2023,Flower - Leather Leaf Fern,beverages,122,820.53,3788.71,mobile payment,January
+959,4/10/2023,"Chocolate - Milk, Callets",pantry,519,336.2,8309.85,credit card,April
+960,3/5/2023,Ecolab - Balanced Fusion,beverages,26,293.32,3642.89,cash,March
+961,3/17/2023,Glass Clear 8 Oz,meat,766,606.1,9336.17,debit card,March
+962,12/21/2023,Carrots - Mini Red Organic,produce,633,858.78,5930.16,debit card,December
+963,2/23/2023,Potato - Sweet,beverages,72,344.27,6361.11,cash,February
+964,1/30/2023,Liqueur - Melon,frozen foods,51,627.9,3305,cash,January
+965,3/4/2023,Amaretto,meat,797,216.21,1590.97,mobile payment,March
+966,4/26/2023,Veal - Provimi Inside,pantry,668,56.61,5248.23,cash,April
+967,8/30/2023,Eel - Smoked,dairy,127,578.82,6833.15,cash,August
+968,8/1/2023,Spring Roll Veg Mini,frozen foods,772,48.47,8079.86,credit card,August
+969,2/9/2023,Scrubbie - Scotchbrite Hand Pad,dairy,442,989.24,5489.07,mobile payment,February
+970,10/5/2023,Pepper - Green Thai,snacks,230,708.96,9878.89,cash,October
+971,11/24/2023,Tart - Raisin And Pecan,pantry,369,334,8763.38,credit card,November
+972,10/11/2023,Sauce - Sesame Thai Dressing,bakery,532,18.27,1105.07,cash,October
+973,10/8/2023,"Pasta - Elbows, Macaroni, Dry",dairy,696,965.21,3346.57,mobile payment,October
+974,5/7/2023,Pastrami,produce,222,346.37,9282.57,credit card,May
+975,12/6/2023,"Lentils - Green, Dry",snacks,793,151.38,9785.55,debit card,December
+976,7/26/2023,Beans - Green,snacks,274,475.56,6835.72,debit card,July
+977,1/29/2023,Wine - Bouchard La Vignee Pinot,frozen foods,655,338.66,360.68,cash,January
+978,1/12/2023,Foil Cont Round,frozen foods,6,167.09,1937.86,debit card,January
+979,4/10/2023,"Yogurt - Strawberry, 175 Gr",snacks,446,832.59,8756.22,debit card,April
+980,2/25/2023,Sauce Bbq Smokey,produce,554,395.25,1918.57,mobile payment,February
+981,12/9/2023,Flour - Semolina,snacks,112,300.55,4126.49,credit card,December
+982,2/9/2023,V8 - Vegetable Cocktail,pantry,249,7.14,1357.23,mobile payment,February
+983,4/23/2023,Okra,snacks,318,757.19,749.82,mobile payment,April
+984,3/9/2023,Peas - Frozen,snacks,769,346.64,4088.8,debit card,March
+985,10/31/2023,"Napkin - Dinner, White",dairy,500,269.73,9118.4,mobile payment,October
+986,12/30/2023,Wine - Chablis J Moreau Et Fils,bakery,261,161.35,4494.36,mobile payment,December
+987,5/21/2023,"Cheese - Havarti, Salsa",produce,693,838.42,2705.51,mobile payment,May
+988,10/28/2023,Ecolab Silver Fusion,frozen foods,362,351.93,293.05,mobile payment,October
+989,2/20/2023,Oats Large Flake,bakery,200,560.08,752.88,credit card,February
+990,8/11/2023,Mayonnaise - Individual Pkg,dairy,524,787.1,869.37,credit card,August
+991,2/23/2023,Poppy Seed,bakery,978,471.15,817.42,debit card,February
+992,5/28/2023,Pails With Lids,produce,734,708.61,184.98,mobile payment,May
+993,10/15/2023,Sponge Cake Mix - Vanilla,dairy,698,125.29,8185.92,mobile payment,October
+994,5/18/2023,Lamb Leg - Bone - In Nz,pantry,391,598.79,7433.52,debit card,May
+995,12/1/2023,Sage - Rubbed,produce,921,691.25,298.97,debit card,December
+996,7/21/2023,Beef - Striploin Aa,produce,279,279.88,6834,credit card,July
+997,8/11/2023,"Stock - Beef, Brown",frozen foods,284,691.46,5693.22,debit card,August
+998,5/14/2023,Rice - Aborio,snacks,605,197.75,3476.43,cash,May
+999,2/18/2023,Lettuce - California Mix,produce,208,380.48,5054,cash,February
+1000,1/24/2023,Cabbage - Nappa,produce,546,619.72,3528.53,cash,January
