@@ -85,7 +85,7 @@ The analysis of the grocery store data provides key insights into the store's sa
    - **Low Performers**: Beverages and bakery items have the lowest sales volume and revenue, indicating potential areas for improvement through targeted marketing or product optimization.
 
 2. **Monthly Revenue Trends**: 
-   - **Revenue Peaks**: March and September emerge as high-revenue months, likely driven by seasonal trends or promotions.
+   - **Revenue Peaks**: March, September and November emerge as high-revenue months, likely driven by seasonal trends or promotions.
    - **Revenue Dips**: June and August see noticeable drops in revenue. Investigating the reasons for these declines and developing marketing strategies could help boost sales during these periods.
 
 3. **Payment Preferences**: 
