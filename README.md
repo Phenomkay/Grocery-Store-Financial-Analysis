@@ -14,7 +14,6 @@
     - Payment Method Distribution
 5. [Conclusion](#conclusion)
 6. [Technologies Used](#technologies-used)
-7. [Setup and Usage](#setup-and-usage)
 
 ## Project Overview
 
